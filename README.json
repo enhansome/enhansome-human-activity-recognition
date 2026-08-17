@@ -24,7 +24,7 @@
             "last_commit": "2024-11-19T17:59:56Z",
             "owner": "OxWearables",
             "repo": "capture24",
-            "stars": 58
+            "stars": 59
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7406
+            "stars": 7407
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-03-18T04:04:49Z",
             "owner": "open-mmlab",
             "repo": "mmaction2",
-            "stars": 5137
+            "stars": 5140
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2024-04-09T06:00:55Z",
             "owner": "facebookresearch",
             "repo": "TimeSformer",
-            "stars": 1862
+            "stars": 1863
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2023-12-08T13:44:48Z",
             "owner": "MCG-NJU",
             "repo": "VideoMAE",
-            "stars": 1781
+            "stars": 1782
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2026-07-23T21:55:35Z",
             "owner": "timeseriesAI",
             "repo": "tsai",
-            "stars": 6107
+            "stars": 6108
           }
         },
         {
@@ -294,7 +294,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T18:57:37Z",
+            "last_commit": "2026-08-17T16:30:42Z",
             "owner": "aeon-toolkit",
             "repo": "aeon",
             "stars": 1435
@@ -351,7 +351,7 @@
             "last_commit": "2025-10-01T00:29:26Z",
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4089
+            "stars": 4091
           }
         },
         {
@@ -365,7 +365,7 @@
             "last_commit": "2024-08-12T05:09:47Z",
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2677
+            "stars": 2678
           }
         },
         {
@@ -427,7 +427,7 @@
             "last_commit": "2024-10-08T05:04:52Z",
             "owner": "OpenGVLab",
             "repo": "VideoMAEv2",
-            "stars": 813
+            "stars": 814
           }
         },
         {
@@ -477,10 +477,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T15:39:30Z",
+            "last_commit": "2026-08-17T17:47:06Z",
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 60662
+            "stars": 60692
           }
         },
         {
@@ -494,7 +494,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34366
+            "stars": 34368
           }
         },
         {
@@ -548,7 +548,7 @@
             "last_commit": "2025-07-25T02:24:35Z",
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4282
+            "stars": 4285
           }
         },
         {
@@ -590,7 +590,7 @@
             "last_commit": "2026-07-18T08:23:35Z",
             "owner": "firework8",
             "repo": "Awesome-Skeleton-based-Action-Recognition",
-            "stars": 726
+            "stars": 727
           }
         },
         {
@@ -601,10 +601,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-27T02:45:52Z",
+            "last_commit": "2026-08-17T10:25:11Z",
             "owner": "rh20624",
             "repo": "Awesome-IMU-Sensing",
-            "stars": 205
+            "stars": 206
           }
         }
       ],
@@ -627,7 +627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:01:01.332Z",
+    "last_updated": "2026-08-17T18:16:34.219Z",
     "original_repository": "Leooo-Huang/awesome-human-activity-recognition",
     "original_repository_sha": "f2ac3343553343523a7d0f681aeb7e10c10a8687",
     "enhanced_repository": "enhansome/enhansome-human-activity-recognition",

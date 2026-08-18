@@ -58,7 +58,7 @@
             "last_commit": "2024-08-18T00:18:36Z",
             "owner": "EricGuo5513",
             "repo": "HumanML3D",
-            "stars": 1519
+            "stars": 1520
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7407
+            "stars": 7408
           }
         },
         {
@@ -294,7 +294,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T16:30:42Z",
+            "last_commit": "2026-08-18T18:14:02Z",
             "owner": "aeon-toolkit",
             "repo": "aeon",
             "stars": 1435
@@ -365,7 +365,7 @@
             "last_commit": "2024-08-12T05:09:47Z",
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2678
+            "stars": 2681
           }
         },
         {
@@ -477,10 +477,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T17:47:06Z",
+            "last_commit": "2026-08-18T16:38:56Z",
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 60692
+            "stars": 60732
           }
         },
         {
@@ -494,7 +494,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34368
+            "stars": 34371
           }
         },
         {
@@ -627,7 +627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T18:16:34.219Z",
+    "last_updated": "2026-08-18T18:15:37.332Z",
     "original_repository": "Leooo-Huang/awesome-human-activity-recognition",
     "original_repository_sha": "f2ac3343553343523a7d0f681aeb7e10c10a8687",
     "enhanced_repository": "enhansome/enhansome-human-activity-recognition",

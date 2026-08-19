@@ -207,8 +207,8 @@
 
 ## Tools and Utilities
 
-* [YOLO-Pose](https://github.com/ultralytics/ultralytics) ⭐ 60,760 | 🐛 182 | 🌐 Python | 📅 2026-08-19 - Ultralytics YOLOv8 Pose for real-time multi-person skeleton estimation.
-* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,372 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - Real-time multi-person keypoint detection for skeleton extraction from video.
+* [YOLO-Pose](https://github.com/ultralytics/ultralytics) ⭐ 60,770 | 🐛 181 | 🌐 Python | 📅 2026-08-19 - Ultralytics YOLOv8 Pose for real-time multi-person skeleton estimation.
+* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,373 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - Real-time multi-person keypoint detection for skeleton extraction from video.
 * [Decord](https://github.com/dmlc/decord) ⭐ 2,512 | 🐛 221 | 🌐 C++ | 📅 2024-07-17 - Efficient GPU-accelerated video reader for deep learning training pipelines.
 * [Papers with Code - HAR Leaderboards](https://paperswithcode.com/task/activity-recognition) - Live SOTA tracking across all major HAR benchmarks.
 * [MMAction2 Model Zoo](https://mmaction2.readthedocs.io/en/latest/model_zoo/modelzoo.html) - Pretrained checkpoints and configs for 100+ action recognition models.
@@ -222,7 +222,7 @@
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,012 | 🐛 1 | 📅 2023-05-13 - Action recognition papers and datasets.
 * [Awesome Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation) ⭐ 2,481 | 🐛 7 | 📅 2022-10-12 - Human pose estimation methods and benchmarks.
 * [Awesome Skeleton-based Action Recognition](https://github.com/firework8/Awesome-Skeleton-based-Action-Recognition) ⭐ 727 | 🐛 0 | 📅 2026-07-18 - GCN and transformer methods for skeleton HAR.
-* [Awesome IMU Sensing](https://github.com/rh20624/Awesome-IMU-Sensing) ⭐ 206 | 🐛 0 | 📅 2026-08-17 - IMU-based sensing for activity recognition and navigation.
+* [Awesome IMU Sensing](https://github.com/rh20624/Awesome-IMU-Sensing) ⭐ 207 | 🐛 0 | 📅 2026-08-17 - IMU-based sensing for activity recognition and navigation.
 
 ## Footnotes
 

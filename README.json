@@ -492,10 +492,10 @@
             "archived": false,
             "id": 535360445,
             "language": "Python",
-            "last_commit": "2026-08-19T12:29:37Z",
+            "last_commit": "2026-08-19T18:06:15Z",
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 60760
+            "stars": 60770
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34372
+            "stars": 34373
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2026-08-17T10:25:11Z",
             "owner": "rh20624",
             "repo": "Awesome-IMU-Sensing",
-            "stars": 206
+            "stars": 207
           }
         }
       ],
@@ -629,7 +629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:45.618Z",
+    "last_updated": "2026-08-19T18:12:49.261Z",
     "original_repository": "Leooo-Huang/awesome-human-activity-recognition",
     "original_repository_id": 1080882241,
     "original_repository_sha": "43a1f5e3be3c56dde8eb479fc2e7e9ead5f8e34c",

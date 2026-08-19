@@ -1,420 +1,436 @@
 {
   "items": [
     {
-      "description": "I have video and want to classify actions — Start with Kinetics-700 for pretraining, evaluate on UCF-101 or HMDB-51 for comparison with prior work. See Vision.\nI need temporal action detection in untrimmed video — ActivityNet for proposals, AVA for spatio-temporal, MultiTHUMOS for dense multi-label. Also listed under Vision above.\nI work with skeleton or motion capture data — NTU RGB+D 120 is the de facto standard. For text-motion alignment, use Babel or HumanML3D. See Skeleton and Emerging.\nI have IMU or wearable sensor data — UCI-HAR for baselines, PAMAP2 for multi-sensor, CAPTURE-24 for real-world scale (151 subjects, 3883 hours). See Wearable.\nI need egocentric or multimodal data — Ego4D for scale (3.3k hours), EPIC-Kitchens-100 for kitchen actions, Ego-Exo4D for cross-view (NEW, CVPR 2024). See Multimodal.\nI want text-to-motion generation — HumanML3D for single-person, InterHuman for two-person, Motion-X++ for whole-body with face and hands. Also listed under Emerging above.",
-      "items": [],
-      "title": "Which Dataset Should I Use"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CAPTURE-24",
+              "description": "Largest free-living wrist accelerometer dataset with 151 subjects and 3883 hours from Nature Scientific Data 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229122205,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-19T17:59:56Z",
+                "owner": "OxWearables",
+                "repo": "capture24",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WEAR",
+              "description": "Outdoor sports dataset with smartwatch IMU and egocentric video from 22 subjects across 18 activities, published at IMWUT 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611351111,
+                "language": "Python",
+                "last_commit": "2026-06-15T15:59:38Z",
+                "owner": "mariusbock",
+                "repo": "wear",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Wearable Sensors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HumanML3D",
+              "description": "Text-to-motion generation dataset with SMPL annotations spanning 14k+ motion sequences.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 463965968,
+                "language": "Python",
+                "last_commit": "2024-08-18T00:18:36Z",
+                "owner": "EricGuo5513",
+                "repo": "HumanML3D",
+                "stars": 1520
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FineBio",
+              "description": "Fine-grained biology lab action understanding with multi-step procedure annotations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 752967876,
+                "language": "Python",
+                "last_commit": "2025-12-15T01:14:05Z",
+                "owner": "aistairc",
+                "repo": "FineBio",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Emerging and Frontier"
+        }
+      ],
       "title": "Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "CAPTURE-24",
-          "description": "Largest free-living wrist accelerometer dataset with 151 subjects and 3883 hours from Nature Scientific Data 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-11-19T17:59:56Z",
-            "owner": "OxWearables",
-            "repo": "capture24",
-            "stars": 59
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PySlowFast",
+              "description": "Facebook Research library for video understanding with SlowFast, X3D, MViT, and AVA models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203465734,
+                "language": "Python",
+                "last_commit": "2026-03-16T11:07:10Z",
+                "owner": "facebookresearch",
+                "repo": "SlowFast",
+                "stars": 7408
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MMAction2",
+              "description": "OpenMMLab toolbox for video understanding supporting 20+ model architectures including SlowFast, TimeSformer, and VideoMAE.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278810244,
+                "language": "Python",
+                "last_commit": "2026-03-18T04:04:49Z",
+                "owner": "open-mmlab",
+                "repo": "mmaction2",
+                "stars": 5141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TimeSformer",
+              "description": "Facebook Research divided space-time attention for video classification from ICML 2021.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 354147404,
+                "language": "Python",
+                "last_commit": "2024-04-09T06:00:55Z",
+                "owner": "facebookresearch",
+                "repo": "TimeSformer",
+                "stars": 1863
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VideoMAE",
+              "description": "Self-supervised video pretraining with masked autoencoders achieving SOTA on multiple benchmarks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473059611,
+                "language": "Python",
+                "last_commit": "2023-12-08T13:44:48Z",
+                "owner": "MCG-NJU",
+                "repo": "VideoMAE",
+                "stars": 1782
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Video-Swin-Transformer",
+              "description": "Pure-transformer backbone for video recognition achieving SOTA on Kinetics-400, Kinetics-600, and SSv2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 380026780,
+                "language": "Python",
+                "last_commit": "2023-03-08T07:48:46Z",
+                "owner": "SwinTransformer",
+                "repo": "Video-Swin-Transformer",
+                "stars": 1665
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InternVideo2",
+              "description": "Foundation model for video understanding at scale supporting action recognition, retrieval, and captioning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776899311,
+                "language": "Python",
+                "last_commit": "2026-07-19T04:27:36Z",
+                "owner": "OpenGVLab",
+                "repo": "VideoChat-Flash",
+                "stars": 527
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video Action Recognition"
         },
         {
-          "node_type": "item",
-          "title": "WEAR",
-          "description": "Outdoor sports dataset with smartwatch IMU and egocentric video from 22 subjects across 18 activities, published at IMWUT 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-15T15:59:38Z",
-            "owner": "mariusbock",
-            "repo": "wear",
-            "stars": 25
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ST-GCN",
+              "description": "Seminal spatial-temporal graph convolution network that established the GCN approach for skeleton-based HAR.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205326746,
+                "language": "Python",
+                "last_commit": "2023-03-08T08:11:41Z",
+                "owner": "yysijie",
+                "repo": "st-gcn",
+                "stars": 1752
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MotionBERT",
+              "description": "Unified pretraining for human motion analysis covering 3D pose estimation and action recognition.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 487855941,
+                "language": "Python",
+                "last_commit": "2026-03-14T07:57:31Z",
+                "owner": "Walter0807",
+                "repo": "MotionBERT",
+                "stars": 1435
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2s-AGCN",
+              "description": "Two-stream adaptive graph convolutional network for skeleton-based action recognition from CVPR 2019.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175442734,
+                "language": "Python",
+                "last_commit": "2021-10-22T02:34:07Z",
+                "owner": "lshiwjx",
+                "repo": "2s-AGCN",
+                "stars": 705
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CTR-GCN",
+              "description": "Channel-wise topology refinement graph convolution for skeleton-based action recognition from ICCV 2021.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 389613998,
+                "language": "Python",
+                "last_commit": "2021-11-20T07:36:20Z",
+                "owner": "Uason-Chen",
+                "repo": "CTR-GCN",
+                "stars": 368
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HD-GCN",
+              "description": "Hierarchically decomposed graph convolutional network for skeleton action recognition from AAAI 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 527846651,
+                "language": "Python",
+                "last_commit": "2023-10-05T21:23:48Z",
+                "owner": "Jho-Yonsei",
+                "repo": "HD-GCN",
+                "stars": 168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfoGCN",
+              "description": "Information-bottleneck graph convolutional network for skeleton action recognition from CVPR 2022.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 410093762,
+                "language": "Python",
+                "last_commit": "2022-11-22T20:00:41Z",
+                "owner": "stnoah1",
+                "repo": "infogcn",
+                "stars": 140
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Skeleton Action Recognition"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tsai",
+              "description": "Deep learning library for time series and sequences built on fastai and PyTorch, widely used for sensor HAR.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211822289,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-23T21:55:35Z",
+                "owner": "timeseriesAI",
+                "repo": "tsai",
+                "stars": 6108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aeon",
+              "description": "Unified Python toolkit for time series including classification, clustering, and anomaly detection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580387696,
+                "language": "Python",
+                "last_commit": "2026-08-19T07:54:35Z",
+                "owner": "aeon-toolkit",
+                "repo": "aeon",
+                "stars": 1435
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepConvLSTM",
+              "description": "Reference implementation of the convolutional LSTM architecture for wearable activity recognition.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48848905,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-06-03T06:12:21Z",
+                "owner": "STRCWearlab",
+                "repo": "DeepConvLSTM",
+                "stars": 289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hang-Time HAR",
+              "description": "Basketball activity recognition from a single wrist-worn inertial sensor using deep learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 638976054,
+                "language": "Python",
+                "last_commit": "2023-07-04T06:59:15Z",
+                "owner": "ahoelzemann",
+                "repo": "hangtime_har",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Wearable Sensor HAR"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MDM",
+              "description": "Human motion diffusion model for text-to-motion generation achieving SOTA on HumanML3D.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 543082997,
+                "language": "Python",
+                "last_commit": "2025-10-01T00:29:26Z",
+                "owner": "GuyTevet",
+                "repo": "motion-diffusion-model",
+                "stars": 4091
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SMPL-X",
+              "description": "Expressive body model capturing body, face, and hand poses, the standard for modern motion datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185815703,
+                "language": "Python",
+                "last_commit": "2024-08-12T05:09:47Z",
+                "owner": "vchoutas",
+                "repo": "smplx",
+                "stars": 2681
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MotionGPT",
+              "description": "Unified motion-language generation model treating motion as a foreign language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656030508,
+                "language": "Python",
+                "last_commit": "2025-07-01T18:22:15Z",
+                "owner": "OpenMotionLab",
+                "repo": "MotionGPT",
+                "stars": 1954
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "T2M-GPT",
+              "description": "Generating human motion from textual descriptions with discrete representations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 588533284,
+                "language": "Python",
+                "last_commit": "2024-09-17T14:19:55Z",
+                "owner": "Mael-zys",
+                "repo": "T2M-GPT",
+                "stars": 773
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MLD",
+              "description": "Motion latent diffusion model for efficient text-driven human motion generation from CVPR 2023.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575661063,
+                "language": "Python",
+                "last_commit": "2023-07-11T04:00:32Z",
+                "owner": "ChenFengYe",
+                "repo": "motion-latent-diffusion",
+                "stars": 745
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Motion Generation and Estimation"
         }
       ],
-      "title": "Wearable Sensors"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "HumanML3D",
-          "description": "Text-to-motion generation dataset with SMPL annotations spanning 14k+ motion sequences.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-18T00:18:36Z",
-            "owner": "EricGuo5513",
-            "repo": "HumanML3D",
-            "stars": 1520
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FineBio",
-          "description": "Fine-grained biology lab action understanding with multi-step procedure annotations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-15T01:14:05Z",
-            "owner": "aistairc",
-            "repo": "FineBio",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InterHuman",
-          "description": "Two-person interaction motion with SMPL-X and text descriptions spanning 6k+ sequences.",
-          "children": []
-        }
-      ],
-      "title": "Emerging and Frontier"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Frameworks and Libraries"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PySlowFast",
-          "description": "Facebook Research library for video understanding with SlowFast, X3D, MViT, and AVA models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-16T11:07:10Z",
-            "owner": "facebookresearch",
-            "repo": "SlowFast",
-            "stars": 7408
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MMAction2",
-          "description": "OpenMMLab toolbox for video understanding supporting 20+ model architectures including SlowFast, TimeSformer, and VideoMAE.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T04:04:49Z",
-            "owner": "open-mmlab",
-            "repo": "mmaction2",
-            "stars": 5140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TimeSformer",
-          "description": "Facebook Research divided space-time attention for video classification from ICML 2021.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-04-09T06:00:55Z",
-            "owner": "facebookresearch",
-            "repo": "TimeSformer",
-            "stars": 1863
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VideoMAE",
-          "description": "Self-supervised video pretraining with masked autoencoders achieving SOTA on multiple benchmarks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-08T13:44:48Z",
-            "owner": "MCG-NJU",
-            "repo": "VideoMAE",
-            "stars": 1782
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Video-Swin-Transformer",
-          "description": "Pure-transformer backbone for video recognition achieving SOTA on Kinetics-400, Kinetics-600, and SSv2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-08T07:48:46Z",
-            "owner": "SwinTransformer",
-            "repo": "Video-Swin-Transformer",
-            "stars": 1665
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InternVideo2",
-          "description": "Foundation model for video understanding at scale supporting action recognition, retrieval, and captioning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-19T04:27:36Z",
-            "owner": "OpenGVLab",
-            "repo": "VideoChat-Flash",
-            "stars": 527
-          }
-        }
-      ],
-      "title": "Video Action Recognition"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ST-GCN",
-          "description": "Seminal spatial-temporal graph convolution network that established the GCN approach for skeleton-based HAR.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-08T08:11:41Z",
-            "owner": "yysijie",
-            "repo": "st-gcn",
-            "stars": 1752
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MotionBERT",
-          "description": "Unified pretraining for human motion analysis covering 3D pose estimation and action recognition.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-14T07:57:31Z",
-            "owner": "Walter0807",
-            "repo": "MotionBERT",
-            "stars": 1435
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "2s-AGCN",
-          "description": "Two-stream adaptive graph convolutional network for skeleton-based action recognition from CVPR 2019.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-10-22T02:34:07Z",
-            "owner": "lshiwjx",
-            "repo": "2s-AGCN",
-            "stars": 705
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CTR-GCN",
-          "description": "Channel-wise topology refinement graph convolution for skeleton-based action recognition from ICCV 2021.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-11-20T07:36:20Z",
-            "owner": "Uason-Chen",
-            "repo": "CTR-GCN",
-            "stars": 368
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HD-GCN",
-          "description": "Hierarchically decomposed graph convolutional network for skeleton action recognition from AAAI 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-05T21:23:48Z",
-            "owner": "Jho-Yonsei",
-            "repo": "HD-GCN",
-            "stars": 168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InfoGCN",
-          "description": "Information-bottleneck graph convolutional network for skeleton action recognition from CVPR 2022.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-11-22T20:00:41Z",
-            "owner": "stnoah1",
-            "repo": "infogcn",
-            "stars": 140
-          }
-        }
-      ],
-      "title": "Skeleton Action Recognition"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tsai",
-          "description": "Deep learning library for time series and sequences built on fastai and PyTorch, widely used for sensor HAR.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-07-23T21:55:35Z",
-            "owner": "timeseriesAI",
-            "repo": "tsai",
-            "stars": 6108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aeon",
-          "description": "Unified Python toolkit for time series including classification, clustering, and anomaly detection.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T18:14:02Z",
-            "owner": "aeon-toolkit",
-            "repo": "aeon",
-            "stars": 1435
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepConvLSTM",
-          "description": "Reference implementation of the convolutional LSTM architecture for wearable activity recognition.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2018-06-03T06:12:21Z",
-            "owner": "STRCWearlab",
-            "repo": "DeepConvLSTM",
-            "stars": 289
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hang-Time HAR",
-          "description": "Basketball activity recognition from a single wrist-worn inertial sensor using deep learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-04T06:59:15Z",
-            "owner": "ahoelzemann",
-            "repo": "hangtime_har",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NNCLR-HAR",
-          "description": "Self-supervised contrastive learning framework for wearable sensor HAR from IMWUT 2022.",
-          "children": []
-        }
-      ],
-      "title": "Wearable Sensor HAR"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MDM",
-          "description": "Human motion diffusion model for text-to-motion generation achieving SOTA on HumanML3D.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-01T00:29:26Z",
-            "owner": "GuyTevet",
-            "repo": "motion-diffusion-model",
-            "stars": 4091
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SMPL-X",
-          "description": "Expressive body model capturing body, face, and hand poses, the standard for modern motion datasets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-12T05:09:47Z",
-            "owner": "vchoutas",
-            "repo": "smplx",
-            "stars": 2681
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MotionGPT",
-          "description": "Unified motion-language generation model treating motion as a foreign language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-01T18:22:15Z",
-            "owner": "OpenMotionLab",
-            "repo": "MotionGPT",
-            "stars": 1954
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "T2M-GPT",
-          "description": "Generating human motion from textual descriptions with discrete representations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-17T14:19:55Z",
-            "owner": "Mael-zys",
-            "repo": "T2M-GPT",
-            "stars": 773
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MLD",
-          "description": "Motion latent diffusion model for efficient text-driven human motion generation from CVPR 2023.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-11T04:00:32Z",
-            "owner": "ChenFengYe",
-            "repo": "motion-latent-diffusion",
-            "stars": 745
-          }
-        }
-      ],
-      "title": "Motion Generation and Estimation"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -423,11 +439,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 623340346,
             "language": "Python",
             "last_commit": "2024-10-08T05:04:52Z",
             "owner": "OpenGVLab",
             "repo": "VideoMAEv2",
-            "stars": 814
+            "stars": 815
           }
         },
         {
@@ -437,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 567111150,
             "language": "Python",
             "last_commit": "2024-04-02T17:00:02Z",
             "owner": "OpenGVLab",
@@ -451,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 575730050,
             "language": "Python",
             "last_commit": "2023-05-21T03:01:44Z",
             "owner": "ruiwang2021",
@@ -462,12 +481,7 @@
       "title": "Pretrained Models"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Key Papers"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -476,11 +490,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 535360445,
             "language": "Python",
-            "last_commit": "2026-08-18T16:38:56Z",
+            "last_commit": "2026-08-19T12:29:37Z",
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 60732
+            "stars": 60760
           }
         },
         {
@@ -490,11 +505,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89247811,
             "language": "C++",
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34371
+            "stars": 34372
           }
         },
         {
@@ -504,24 +520,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166483718,
             "language": "C++",
             "last_commit": "2024-07-17T04:18:40Z",
             "owner": "dmlc",
             "repo": "decord",
             "stars": 2512
           }
-        },
-        {
-          "node_type": "item",
-          "title": "vid2player",
-          "description": "Character animation from video input, useful for activity recognition visualization.",
-          "children": []
         }
       ],
       "title": "Tools and Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -530,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120975327,
             "language": null,
             "last_commit": "2026-02-24T08:30:02Z",
             "owner": "jason718",
@@ -544,11 +556,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164433070,
             "language": null,
             "last_commit": "2025-07-25T02:24:35Z",
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4285
+            "stars": 4284
           }
         },
         {
@@ -558,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68941669,
             "language": null,
             "last_commit": "2023-05-13T17:00:12Z",
             "owner": "jinwchoi",
@@ -572,11 +586,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151448977,
             "language": null,
             "last_commit": "2022-10-12T12:34:44Z",
             "owner": "cbsudux",
             "repo": "awesome-human-pose-estimation",
-            "stars": 2480
+            "stars": 2481
           }
         },
         {
@@ -586,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 602405635,
             "language": null,
             "last_commit": "2026-07-18T08:23:35Z",
             "owner": "firework8",
@@ -600,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 790280061,
             "language": null,
             "last_commit": "2026-08-17T10:25:11Z",
             "owner": "rh20624",
@@ -609,27 +626,13 @@
         }
       ],
       "title": "Related Awesome Lists"
-    },
-    {
-      "description": "See also: Multi-dimensional taxonomy | Surveys | Benchmarks | Catalog builder | Roadmap | How to contribute",
-      "items": [],
-      "title": "Footnotes"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Citation"
-    },
-    {
-      "description": "Thanks to dataset authors, annotation teams, and benchmark maintainers who make open research in human activity understanding possible.",
-      "items": [],
-      "title": "Acknowledgements"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:15:37.332Z",
+    "last_updated": "2026-08-19T12:32:45.618Z",
     "original_repository": "Leooo-Huang/awesome-human-activity-recognition",
-    "original_repository_sha": "f2ac3343553343523a7d0f681aeb7e10c10a8687",
+    "original_repository_id": 1080882241,
+    "original_repository_sha": "43a1f5e3be3c56dde8eb479fc2e7e9ead5f8e34c",
     "enhanced_repository": "enhansome/enhansome-human-activity-recognition",
     "enhanced_repository_description": null,
     "title": "Awesome Human Activity Recognition with stars"

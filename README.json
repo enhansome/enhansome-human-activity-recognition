@@ -54,7 +54,7 @@
                 "last_commit": "2024-08-18T00:18:36Z",
                 "owner": "EricGuo5513",
                 "repo": "HumanML3D",
-                "stars": 1520
+                "stars": 1521
               }
             },
             {
@@ -239,7 +239,7 @@
                 "last_commit": "2021-11-20T07:36:20Z",
                 "owner": "Uason-Chen",
                 "repo": "CTR-GCN",
-                "stars": 368
+                "stars": 367
               }
             },
             {
@@ -291,7 +291,7 @@
                 "last_commit": "2026-07-23T21:55:35Z",
                 "owner": "timeseriesAI",
                 "repo": "tsai",
-                "stars": 6108
+                "stars": 6109
               }
             },
             {
@@ -303,7 +303,7 @@
                 "archived": false,
                 "id": 580387696,
                 "language": "Python",
-                "last_commit": "2026-08-19T07:54:35Z",
+                "last_commit": "2026-08-20T15:01:09Z",
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
                 "stars": 1435
@@ -388,7 +388,7 @@
                 "last_commit": "2025-07-01T18:22:15Z",
                 "owner": "OpenMotionLab",
                 "repo": "MotionGPT",
-                "stars": 1954
+                "stars": 1955
               }
             },
             {
@@ -492,10 +492,10 @@
             "archived": false,
             "id": 535360445,
             "language": "Python",
-            "last_commit": "2026-08-19T18:06:15Z",
+            "last_commit": "2026-08-20T17:27:35Z",
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 60770
+            "stars": 60801
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34373
+            "stars": 34375
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2025-07-25T02:24:35Z",
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4284
+            "stars": 4288
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2023-05-13T17:00:12Z",
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4012
+            "stars": 4015
           }
         },
         {
@@ -603,7 +603,7 @@
             "archived": false,
             "id": 602405635,
             "language": null,
-            "last_commit": "2026-07-18T08:23:35Z",
+            "last_commit": "2026-08-20T08:56:23Z",
             "owner": "firework8",
             "repo": "Awesome-Skeleton-based-Action-Recognition",
             "stars": 727
@@ -629,7 +629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T18:12:49.261Z",
+    "last_updated": "2026-08-20T18:17:01.810Z",
     "original_repository": "Leooo-Huang/awesome-human-activity-recognition",
     "original_repository_id": 1080882241,
     "original_repository_sha": "43a1f5e3be3c56dde8eb479fc2e7e9ead5f8e34c",

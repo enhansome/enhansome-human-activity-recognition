@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "FineSports",
+              "description": "Multi-person fine-grained sports understanding with 10k NBA videos and 52 action types from CVPR 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 778307351,
+                "language": "Python",
+                "last_commit": "2026-04-03T10:30:47Z",
+                "owner": "PKU-ICST-MIPL",
+                "repo": "FineSports_CVPR2024",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vision (RGB / Depth)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "CAPTURE-24",
               "description": "Largest free-living wrist accelerometer dataset with 151 subjects and 3883 hours from Nature Scientific Data 2024.",
               "children": [],
@@ -39,6 +61,28 @@
           "description": null,
           "node_type": "group",
           "title": "Wearable Sensors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EgoExo-Fitness",
+              "description": "Ego and exo fitness action quality assessment with 31 hours and 6k+ actions from ECCV 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 814056873,
+                "language": "Python",
+                "last_commit": "2025-04-08T03:19:09Z",
+                "owner": "iSEE-Laboratory",
+                "repo": "EgoExo-Fitness",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multimodal and Egocentric"
         },
         {
           "children": [
@@ -97,7 +141,7 @@
                 "last_commit": "2026-03-16T11:07:10Z",
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7407
+                "stars": 7409
               }
             },
             {
@@ -142,7 +186,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1784
+                "stars": 1783
               }
             },
             {
@@ -209,7 +253,7 @@
                 "last_commit": "2026-03-14T07:57:31Z",
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1436
+                "stars": 1437
               }
             },
             {
@@ -291,7 +335,7 @@
                 "last_commit": "2026-07-23T21:55:35Z",
                 "owner": "timeseriesAI",
                 "repo": "tsai",
-                "stars": 6107
+                "stars": 6108
               }
             },
             {
@@ -303,7 +347,7 @@
                 "archived": false,
                 "id": 580387696,
                 "language": "Python",
-                "last_commit": "2026-08-23T16:00:35Z",
+                "last_commit": "2026-08-24T12:55:15Z",
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
                 "stars": 1435
@@ -373,7 +417,7 @@
                 "last_commit": "2024-08-12T05:09:47Z",
                 "owner": "vchoutas",
                 "repo": "smplx",
-                "stars": 2682
+                "stars": 2683
               }
             },
             {
@@ -485,6 +529,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Sensor HAR Tutorial by Marius Bock",
+          "description": "Comprehensive deep learning tutorial for inertial sensor HAR with PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 379572843,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-21T14:09:11Z",
+            "owner": "mariusbock",
+            "repo": "dl-for-har",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Tutorials and Courses"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UAV-Human Challenge",
+          "description": "Human behavior understanding from UAV perspectives with multi-modal data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357101788,
+            "language": "Python",
+            "last_commit": "2022-07-11T14:34:11Z",
+            "owner": "sutdcv",
+            "repo": "UAV-Human",
+            "stars": 255
+          }
+        }
+      ],
+      "title": "Competitions and Challenges"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "YOLO-Pose",
           "description": "Ultralytics YOLOv8 Pose for real-time multi-person skeleton estimation.",
           "children": [],
@@ -492,10 +578,10 @@
             "archived": false,
             "id": 535360445,
             "language": "Python",
-            "last_commit": "2026-08-23T17:50:06Z",
+            "last_commit": "2026-08-24T14:06:14Z",
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 60889
+            "stars": 60915
           }
         },
         {
@@ -510,7 +596,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34385
+            "stars": 34390
           }
         },
         {
@@ -525,7 +611,7 @@
             "last_commit": "2024-07-17T04:18:40Z",
             "owner": "dmlc",
             "repo": "decord",
-            "stars": 2511
+            "stars": 2513
           }
         }
       ],
@@ -561,7 +647,7 @@
             "last_commit": "2025-07-25T02:24:35Z",
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4294
+            "stars": 4297
           }
         },
         {
@@ -629,7 +715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:01:44.048Z",
+    "last_updated": "2026-08-24T14:33:12.297Z",
     "original_repository": "Leooo-Huang/awesome-human-activity-recognition",
     "original_repository_id": 1080882241,
     "original_repository_sha": "43a1f5e3be3c56dde8eb479fc2e7e9ead5f8e34c",

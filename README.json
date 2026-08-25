@@ -417,7 +417,7 @@
                 "last_commit": "2024-08-12T05:09:47Z",
                 "owner": "vchoutas",
                 "repo": "smplx",
-                "stars": 2683
+                "stars": 2684
               }
             },
             {
@@ -432,7 +432,7 @@
                 "last_commit": "2025-07-01T18:22:15Z",
                 "owner": "OpenMotionLab",
                 "repo": "MotionGPT",
-                "stars": 1959
+                "stars": 1960
               }
             },
             {
@@ -578,10 +578,10 @@
             "archived": false,
             "id": 535360445,
             "language": "Python",
-            "last_commit": "2026-08-24T18:08:02Z",
+            "last_commit": "2026-08-25T06:19:29Z",
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 60921
+            "stars": 60940
           }
         },
         {
@@ -596,7 +596,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34393
+            "stars": 34396
           }
         },
         {
@@ -647,7 +647,7 @@
             "last_commit": "2025-07-25T02:24:35Z",
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4300
+            "stars": 4302
           }
         },
         {
@@ -715,7 +715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:18:02.867Z",
+    "last_updated": "2026-08-25T06:22:19.156Z",
     "original_repository": "Leooo-Huang/awesome-human-activity-recognition",
     "original_repository_id": 1080882241,
     "original_repository_sha": "43a1f5e3be3c56dde8eb479fc2e7e9ead5f8e34c",

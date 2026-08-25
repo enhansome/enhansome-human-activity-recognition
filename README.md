@@ -139,8 +139,8 @@
 ### Motion Generation and Estimation
 
 * [MDM](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,092 | 🐛 69 | 🌐 Python | 📅 2025-10-01 - Human motion diffusion model for text-to-motion generation achieving SOTA on HumanML3D.
-* [SMPL-X](https://github.com/vchoutas/smplx) ⭐ 2,683 | 🐛 134 | 🌐 Python | 📅 2024-08-12 - Expressive body model capturing body, face, and hand poses, the standard for modern motion datasets.
-* [MotionGPT](https://github.com/OpenMotionLab/MotionGPT) ⭐ 1,959 | 🐛 72 | 🌐 Python | 📅 2025-07-01 - Unified motion-language generation model treating motion as a foreign language.
+* [SMPL-X](https://github.com/vchoutas/smplx) ⭐ 2,684 | 🐛 134 | 🌐 Python | 📅 2024-08-12 - Expressive body model capturing body, face, and hand poses, the standard for modern motion datasets.
+* [MotionGPT](https://github.com/OpenMotionLab/MotionGPT) ⭐ 1,960 | 🐛 72 | 🌐 Python | 📅 2025-07-01 - Unified motion-language generation model treating motion as a foreign language.
 * [T2M-GPT](https://github.com/Mael-zys/T2M-GPT) ⭐ 774 | 🐛 18 | 🌐 Python | 📅 2024-09-17 - Generating human motion from textual descriptions with discrete representations.
 * [MLD](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 746 | 🐛 39 | 🌐 Python | 📅 2023-07-11 - Motion latent diffusion model for efficient text-driven human motion generation from CVPR 2023.
 
@@ -207,8 +207,8 @@
 
 ## Tools and Utilities
 
-* [YOLO-Pose](https://github.com/ultralytics/ultralytics) ⭐ 60,921 | 🐛 115 | 🌐 Python | 📅 2026-08-24 - Ultralytics YOLOv8 Pose for real-time multi-person skeleton estimation.
-* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,393 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - Real-time multi-person keypoint detection for skeleton extraction from video.
+* [YOLO-Pose](https://github.com/ultralytics/ultralytics) ⭐ 60,940 | 🐛 92 | 🌐 Python | 📅 2026-08-25 - Ultralytics YOLOv8 Pose for real-time multi-person skeleton estimation.
+* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,396 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - Real-time multi-person keypoint detection for skeleton extraction from video.
 * [Decord](https://github.com/dmlc/decord) ⭐ 2,513 | 🐛 221 | 🌐 C++ | 📅 2024-07-17 - Efficient GPU-accelerated video reader for deep learning training pipelines.
 * [Papers with Code - HAR Leaderboards](https://paperswithcode.com/task/activity-recognition) - Live SOTA tracking across all major HAR benchmarks.
 * [MMAction2 Model Zoo](https://mmaction2.readthedocs.io/en/latest/model_zoo/modelzoo.html) - Pretrained checkpoints and configs for 100+ action recognition models.
@@ -218,7 +218,7 @@
 ## Related Awesome Lists
 
 * [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,413 | 🐛 1 | 📅 2026-02-24 - Self-supervised learning methods applicable to video and sensor modalities.
-* [Awesome Video Understanding](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) ⭐ 4,300 | 🐛 14 | 📅 2025-07-25 - Video understanding systems and architectures.
+* [Awesome Video Understanding](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) ⭐ 4,302 | 🐛 14 | 📅 2025-07-25 - Video understanding systems and architectures.
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,016 | 🐛 1 | 📅 2023-05-13 - Action recognition papers and datasets.
 * [Awesome Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation) ⭐ 2,480 | 🐛 7 | 📅 2022-10-12 - Human pose estimation methods and benchmarks.
 * [Awesome Skeleton-based Action Recognition](https://github.com/firework8/Awesome-Skeleton-based-Action-Recognition) ⭐ 727 | 🐛 0 | 📅 2026-08-20 - GCN and transformer methods for skeleton HAR.
@@ -246,4 +246,4 @@ Thanks to dataset authors, annotation teams, and benchmark maintainers who make 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

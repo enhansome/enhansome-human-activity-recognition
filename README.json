@@ -186,7 +186,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1783
+                "stars": 1784
               }
             },
             {
@@ -253,7 +253,7 @@
                 "last_commit": "2026-03-14T07:57:31Z",
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1437
+                "stars": 1438
               }
             },
             {
@@ -335,7 +335,7 @@
                 "last_commit": "2026-07-23T21:55:35Z",
                 "owner": "timeseriesAI",
                 "repo": "tsai",
-                "stars": 6108
+                "stars": 6109
               }
             },
             {
@@ -347,10 +347,10 @@
                 "archived": false,
                 "id": 580387696,
                 "language": "Python",
-                "last_commit": "2026-08-24T15:40:20Z",
+                "last_commit": "2026-08-25T14:54:12Z",
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
-                "stars": 1435
+                "stars": 1437
               }
             },
             {
@@ -417,7 +417,7 @@
                 "last_commit": "2024-08-12T05:09:47Z",
                 "owner": "vchoutas",
                 "repo": "smplx",
-                "stars": 2684
+                "stars": 2685
               }
             },
             {
@@ -578,10 +578,10 @@
             "archived": false,
             "id": 535360445,
             "language": "Python",
-            "last_commit": "2026-08-25T06:19:29Z",
+            "last_commit": "2026-08-25T18:11:11Z",
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 60940
+            "stars": 60952
           }
         },
         {
@@ -596,7 +596,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34396
+            "stars": 34401
           }
         },
         {
@@ -611,7 +611,7 @@
             "last_commit": "2024-07-17T04:18:40Z",
             "owner": "dmlc",
             "repo": "decord",
-            "stars": 2513
+            "stars": 2514
           }
         }
       ],
@@ -662,7 +662,7 @@
             "last_commit": "2023-05-13T17:00:12Z",
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4016
+            "stars": 4015
           }
         },
         {
@@ -715,7 +715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:19.156Z",
+    "last_updated": "2026-08-25T18:18:10.508Z",
     "original_repository": "Leooo-Huang/awesome-human-activity-recognition",
     "original_repository_id": 1080882241,
     "original_repository_sha": "43a1f5e3be3c56dde8eb479fc2e7e9ead5f8e34c",

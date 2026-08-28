@@ -156,7 +156,7 @@
                 "last_commit": "2026-03-18T04:04:49Z",
                 "owner": "open-mmlab",
                 "repo": "mmaction2",
-                "stars": 5142
+                "stars": 5143
               }
             },
             {
@@ -186,7 +186,7 @@
                 "last_commit": "2023-12-08T13:44:48Z",
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1785
+                "stars": 1786
               }
             },
             {
@@ -335,7 +335,7 @@
                 "last_commit": "2026-07-23T21:55:35Z",
                 "owner": "timeseriesAI",
                 "repo": "tsai",
-                "stars": 6112
+                "stars": 6113
               }
             },
             {
@@ -347,10 +347,10 @@
                 "archived": false,
                 "id": 580387696,
                 "language": "Python",
-                "last_commit": "2026-08-26T22:51:10Z",
+                "last_commit": "2026-08-27T19:26:59Z",
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
-                "stars": 1438
+                "stars": 1439
               }
             },
             {
@@ -578,10 +578,10 @@
             "archived": false,
             "id": 535360445,
             "language": "Python",
-            "last_commit": "2026-08-27T11:07:46Z",
+            "last_commit": "2026-08-27T18:31:22Z",
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 61004
+            "stars": 61020
           }
         },
         {
@@ -596,7 +596,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34417
+            "stars": 34418
           }
         },
         {
@@ -715,7 +715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:45:43.145Z",
+    "last_updated": "2026-08-28T01:47:25.899Z",
     "original_repository_info": {
       "archived": false,
       "id": 1080882241,

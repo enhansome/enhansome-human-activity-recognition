@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 778307351,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-03T10:30:47Z",
+                "open_issues": 4,
                 "owner": "PKU-ICST-MIPL",
                 "repo": "FineSports_CVPR2024",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAPTURE-24: Human activity recognition with activity trackers",
+                "homepage": null,
                 "id": 229122205,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-19T17:59:56Z",
+                "open_issues": 0,
                 "owner": "OxWearables",
                 "repo": "capture24",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -51,12 +61,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WEAR: An Outdoor Sports Dataset for Wearable and Egocentric Activity Recognition, Bock et al., published in IMWUT (Issue 4, Vol. 8, Article 175 November 2024)",
+                "homepage": "https://mariusbock.github.io/wear/",
                 "id": 611351111,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-15T15:59:38Z",
+                "open_issues": 0,
                 "owner": "mariusbock",
                 "repo": "wear",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "datasets",
+                  "human-activity-recognition",
+                  "temporal-action-localization",
+                  "wearable-activity-recognition"
+                ]
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             }
@@ -74,12 +94,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ECCV 2024) Official repository of paper \"EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding\"",
+                "homepage": null,
                 "id": 814056873,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-08T03:19:09Z",
+                "open_issues": 1,
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "action-understanding",
+                  "dataset",
+                  "egocentric-vision"
+                ]
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             }
@@ -97,12 +126,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HumanML3D: A large and diverse 3d human motion-language dataset.",
+                "homepage": "https://ericguo5513.github.io/text-to-motion/",
                 "id": 463965968,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-18T00:18:36Z",
+                "open_issues": 112,
                 "owner": "EricGuo5513",
                 "repo": "HumanML3D",
-                "stars": 1522
+                "stars": 1522,
+                "topics": [
+                  "dataset",
+                  "deep-learning",
+                  "motion-generation",
+                  "text-annotation"
+                ]
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -113,12 +152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data and code for the paper \"FineBio: A Fine-Grained Video Dataset of Biological Experiments with Hierarchical Annotation\"",
+                "homepage": "https://arxiv.org/abs/2402.00293",
                 "id": 752967876,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-15T01:14:05Z",
+                "open_issues": 0,
                 "owner": "aistairc",
                 "repo": "FineBio",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             }
@@ -142,12 +186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.",
+                "homepage": null,
                 "id": 203465734,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-16T11:07:10Z",
+                "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7411
+                "stars": 7411,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -158,12 +207,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark",
+                "homepage": "https://mmaction2.readthedocs.io",
                 "id": 278810244,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-18T04:04:49Z",
+                "open_issues": 319,
                 "owner": "open-mmlab",
                 "repo": "mmaction2",
-                "stars": 5145
+                "stars": 5145,
+                "topics": [
+                  "action-recognition",
+                  "ava",
+                  "benchmark",
+                  "deep-learning",
+                  "i3d",
+                  "non-local",
+                  "openmmlab",
+                  "posec3d",
+                  "pytorch",
+                  "slowfast",
+                  "spatial-temporal-action-detection",
+                  "temporal-action-localization",
+                  "tsm",
+                  "tsn",
+                  "uniformerv2",
+                  "video-classification",
+                  "video-understanding",
+                  "x3d"
+                ]
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -174,12 +247,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The official pytorch implementation of our paper \"Is Space-Time Attention All You Need for Video Understanding?\"",
+                "homepage": null,
                 "id": 354147404,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-09T06:00:55Z",
+                "open_issues": 72,
                 "owner": "facebookresearch",
                 "repo": "TimeSformer",
-                "stars": 1863
+                "stars": 1863,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -190,12 +268,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022 Spotlight] VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training",
+                "homepage": "https://arxiv.org/abs/2203.12602",
                 "id": 473059611,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-08T13:44:48Z",
+                "open_issues": 50,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1786
+                "stars": 1786,
+                "topics": [
+                  "action-recognition",
+                  "mae",
+                  "masked-autoencoder",
+                  "neurips-2022",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "transformer",
+                  "video-analysis",
+                  "video-representation-learning",
+                  "video-transformer",
+                  "video-understanding",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -206,12 +302,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official implementation for \"Video Swin Transformers\".",
+                "homepage": "https://arxiv.org/abs/2106.13230",
                 "id": 380026780,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-08T07:48:46Z",
+                "open_issues": 72,
                 "owner": "SwinTransformer",
                 "repo": "Video-Swin-Transformer",
-                "stars": 1665
+                "stars": 1665,
+                "topics": [
+                  "swin-transformer",
+                  "video-recognition"
+                ]
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -222,12 +326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR2026] VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling",
+                "homepage": null,
                 "id": 776899311,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-19T04:27:36Z",
+                "open_issues": 11,
                 "owner": "OpenGVLab",
                 "repo": "VideoChat-Flash",
-                "stars": 528
+                "stars": 528,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             }
@@ -245,12 +354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spatial Temporal Graph Convolutional Networks (ST-GCN) for Skeleton-Based Action Recognition in PyTorch",
+                "homepage": null,
                 "id": 205326746,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-03-08T08:11:41Z",
+                "open_issues": 0,
                 "owner": "yysijie",
                 "repo": "st-gcn",
-                "stars": 1752
+                "stars": 1753,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -261,12 +375,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] PyTorch Implementation of \"MotionBERT: A Unified Perspective on Learning Human Motion Representations\"",
+                "homepage": null,
                 "id": 487855941,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-14T07:57:31Z",
+                "open_issues": 44,
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1440
+                "stars": 1440,
+                "topics": [
+                  "3d-pose-estimation",
+                  "iccv2023",
+                  "mesh-recovery",
+                  "skeleton-based-action-recognition"
+                ]
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -277,12 +401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition in CVPR19",
+                "homepage": null,
                 "id": 175442734,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-22T02:34:07Z",
+                "open_issues": 68,
                 "owner": "lshiwjx",
                 "repo": "2s-AGCN",
-                "stars": 705
+                "stars": 705,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -293,12 +422,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV2021] Official code for \"Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition\"",
+                "homepage": null,
                 "id": 389613998,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-11-20T07:36:20Z",
+                "open_issues": 29,
                 "owner": "Uason-Chen",
                 "repo": "CTR-GCN",
-                "stars": 367
+                "stars": 367,
+                "topics": [
+                  "deep-learning",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -309,12 +446,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] Hierarchically Decomposed Graph Convolutional Networks for Skeleton-Based Action Recognition",
+                "homepage": null,
                 "id": 527846651,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-05T21:23:48Z",
+                "open_issues": 18,
                 "owner": "Jho-Yonsei",
                 "repo": "HD-GCN",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -325,12 +467,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation for \"InfoGCN: Representation Learning for Human Skeleton-Based Action Recognition\"",
+                "homepage": null,
                 "id": 410093762,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-22T20:00:41Z",
+                "open_issues": 11,
                 "owner": "stnoah1",
                 "repo": "infogcn",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             }
@@ -348,12 +495,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Time series Timeseries Deep Learning Machine Learning Python Pytorch  fastai | State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch / fastai",
+                "homepage": "https://timeseriesai.github.io/tsai/",
                 "id": 211822289,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-23T21:55:35Z",
+                "open_issues": 31,
                 "owner": "timeseriesAI",
                 "repo": "tsai",
-                "stars": 6113
+                "stars": 6113,
+                "topics": [
+                  "classification",
+                  "cnn",
+                  "deep-learning",
+                  "fastai",
+                  "forecasting",
+                  "inceptiontime",
+                  "machine-learning",
+                  "python",
+                  "pytorch",
+                  "regression",
+                  "rnn",
+                  "rocket",
+                  "self-supervised",
+                  "sequential",
+                  "state-of-the-art",
+                  "time-series",
+                  "time-series-analysis",
+                  "time-series-classification",
+                  "timeseries",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -364,12 +537,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit for time series  machine learning and deep learning",
+                "homepage": "https://aeon-toolkit.org/",
                 "id": 580387696,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T20:34:09Z",
+                "open_issues": 230,
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
-                "stars": 1439
+                "stars": 1439,
+                "topics": [
+                  "aeon",
+                  "ai",
+                  "artificial-intelligence",
+                  "data-mining",
+                  "data-science",
+                  "deep-learning",
+                  "forecasting",
+                  "machine-learning",
+                  "neural-network",
+                  "scikit-learn",
+                  "time-series",
+                  "time-series-analysis",
+                  "time-series-anomaly-detection",
+                  "time-series-classification",
+                  "time-series-clustering",
+                  "time-series-regression",
+                  "time-series-segmentation"
+                ]
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -380,12 +576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning framework for wearable activity recognition based on convolutional and LSTM recurretn layers ",
+                "homepage": null,
                 "id": 48848905,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-06-03T06:12:21Z",
+                "open_issues": 7,
                 "owner": "STRCWearlab",
                 "repo": "DeepConvLSTM",
-                "stars": 289
+                "stars": 289,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -396,12 +597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 638976054,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-04T06:59:15Z",
+                "open_issues": 0,
                 "owner": "ahoelzemann",
                 "repo": "hangtime_har",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             }
@@ -419,12 +625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official PyTorch implementation of the paper \"Human Motion Diffusion Model\"",
+                "homepage": null,
                 "id": 543082997,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-01T00:29:26Z",
+                "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4092
+                "stars": 4092,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -435,12 +646,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SMPL-X",
+                "homepage": "https://smpl-x.is.tue.mpg.de/",
                 "id": 185815703,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-12T05:09:47Z",
+                "open_issues": 134,
                 "owner": "vchoutas",
                 "repo": "smplx",
-                "stars": 2687
+                "stars": 2687,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -451,12 +667,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs",
+                "homepage": "https://motion-gpt.github.io",
                 "id": 656030508,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-01T18:22:15Z",
+                "open_issues": 72,
                 "owner": "OpenMotionLab",
                 "repo": "MotionGPT",
-                "stars": 1962
+                "stars": 1962,
+                "topics": [
+                  "3d-generation",
+                  "chatgpt",
+                  "gpt",
+                  "language-model",
+                  "motion",
+                  "motion-generation",
+                  "motiongpt",
+                  "multi-modal",
+                  "text-driven",
+                  "text-to-motion"
+                ]
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -467,12 +699,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(CVPR 2023) Pytorch implementation of “T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations”",
+                "homepage": "https://mael-zys.github.io/T2M-GPT/",
                 "id": 588533284,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-17T14:19:55Z",
+                "open_issues": 18,
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 775
+                "stars": 775,
+                "topics": [
+                  "gpt",
+                  "motion-generation",
+                  "vq-vae"
+                ]
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             },
@@ -483,12 +724,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] Executing your Commands via Motion Diffusion in Latent Space, a fast and high-quality motion diffusion model",
+                "homepage": "https://chenxin.tech/mld/",
                 "id": 575661063,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-11T04:00:32Z",
+                "open_issues": 39,
                 "owner": "ChenFengYe",
                 "repo": "motion-latent-diffusion",
-                "stars": 746
+                "stars": 746,
+                "topics": [
+                  "3d-generation",
+                  "cvpr2023",
+                  "diffusion-model",
+                  "motion",
+                  "motion-generation",
+                  "text-driven",
+                  "text-to-motion"
+                ]
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
             }
@@ -510,12 +764,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking",
+            "homepage": "https://arxiv.org/abs/2303.16727",
             "id": 623340346,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-08T05:04:52Z",
+            "open_issues": 25,
             "owner": "OpenGVLab",
             "repo": "VideoMAEv2",
-            "stars": 816
+            "stars": 816,
+            "topics": [
+              "action-detection",
+              "action-recognition",
+              "cvpr2023",
+              "foundation-model",
+              "self-supervised-learning",
+              "temporal-action-detection",
+              "video-understanding"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.582Z"
         },
@@ -526,12 +793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV2023] UniFormerV2: Spatiotemporal Learning by Arming Image ViTs with Video UniFormer",
+            "homepage": "https://arxiv.org/abs/2211.09552",
             "id": 567111150,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-02T17:00:02Z",
+            "open_issues": 18,
             "owner": "OpenGVLab",
             "repo": "UniFormerV2",
-            "stars": 352
+            "stars": 352,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:21.582Z"
         },
@@ -542,12 +814,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2023] Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning (https://arxiv.org/abs/2212.04500)",
+            "homepage": null,
             "id": 575730050,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-21T03:01:44Z",
+            "open_issues": 3,
             "owner": "ruiwang2021",
             "repo": "mvd",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "action-recognition",
+              "cvpr2023",
+              "masked-autoencoder",
+              "self-supervised-learning",
+              "video-representation-learning",
+              "video-understanding",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.582Z"
         }
@@ -564,12 +849,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Improving Deep Learning for HAR with shallow LSTMs (best paper award), Bock et al., presented at ISWC 2021 (online)",
+            "homepage": "https://doi.org/10.1145/3460421.3480419",
             "id": 379572843,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-03-21T14:09:11Z",
+            "open_issues": 1,
             "owner": "mariusbock",
             "repo": "dl-for-har",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "deep-learning",
+              "human-activity-recognition"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.582Z"
         }
@@ -586,12 +879,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2021] UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles",
+            "homepage": null,
             "id": 357101788,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-11T14:34:11Z",
+            "open_issues": 12,
             "owner": "sutdcv",
             "repo": "UAV-Human",
-            "stars": 255
+            "stars": 255,
+            "topics": [
+              "action-recognition",
+              "dataset",
+              "uav"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.582Z"
         }
@@ -608,12 +910,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
+            "homepage": "https://platform.ultralytics.com",
             "id": 535360445,
             "language": "Python",
-            "last_commit": "2026-08-29T01:06:42Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T02:14:35Z",
+            "open_issues": 92,
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 61054
+            "stars": 61056,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "image-classification",
+              "instance-segmentation",
+              "machine-learning",
+              "object-detection",
+              "object-tracking",
+              "pose-estimation",
+              "python",
+              "pytorch",
+              "rotated-object-detection",
+              "segment-anything",
+              "semantic-segmentation",
+              "tracking",
+              "ultralytics",
+              "yolo",
+              "yolo-world",
+              "yolo11",
+              "yolo26",
+              "yolov8"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.582Z"
         },
@@ -624,12 +952,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+            "homepage": "https://cmu-perceptual-computing-lab.github.io/openpose",
             "id": 89247811,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-03T01:59:11Z",
+            "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34417
+            "stars": 34417,
+            "topics": [
+              "caffe",
+              "computer-vision",
+              "cpp",
+              "cvpr-2017",
+              "deep-learning",
+              "face",
+              "foot-estimation",
+              "hand-estimation",
+              "human-behavior-understanding",
+              "human-pose",
+              "human-pose-estimation",
+              "keypoint-detection",
+              "keypoints",
+              "machine-learning",
+              "multi-person",
+              "opencv",
+              "openpose",
+              "pose",
+              "pose-estimation",
+              "real-time"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.582Z"
         },
@@ -640,12 +994,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An efficient video loader for deep learning with smart shuffling that's super easy to digest",
+            "homepage": null,
             "id": 166483718,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-17T04:18:40Z",
+            "open_issues": 221,
             "owner": "dmlc",
             "repo": "decord",
-            "stars": 2515
+            "stars": 2515,
+            "topics": [
+              "video-loader"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.582Z"
         }
@@ -662,12 +1023,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome self-supervised methods",
+            "homepage": null,
             "id": 120975327,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-24T08:30:02Z",
+            "open_issues": 1,
             "owner": "jason718",
             "repo": "awesome-self-supervised-learning",
-            "stars": 6413
+            "stars": 6413,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "machine-learning",
+              "natural-language-processing",
+              "reinforcement-learning",
+              "robotics",
+              "self-supervised"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.582Z"
         },
@@ -678,12 +1052,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Awesome System for Machine Learning ⚡️ AI System Papers and Industry Practice. ⚡️ System for Machine Learning, LLM (Large Language Model), GenAI (Generative AI). 🍻 OSDI, NSDI, SIGCOMM, SoCC, MLSys, etc. 🗃️ Llama3, Mistral, etc. 🧑‍💻 Video Tutorials. ",
+            "homepage": "https://huaizheng.xyz/",
             "id": 164433070,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-07-25T02:24:35Z",
+            "open_issues": 14,
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4315
+            "stars": 4316,
+            "topics": [
+              "ai-infra",
+              "genai",
+              "large-language-models",
+              "llmsys",
+              "mlsys",
+              "model-serving",
+              "model-training"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.582Z"
         },
@@ -694,12 +1081,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of action recognition and related area resources",
+            "homepage": null,
             "id": 68941669,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-13T17:00:12Z",
+            "open_issues": 1,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4016
+            "stars": 4016,
+            "topics": [
+              "action-classification",
+              "action-detection",
+              "action-recognition",
+              "activity-recognition",
+              "activity-understanding",
+              "awesome",
+              "awesome-list",
+              "object-recognition",
+              "pose-estimation",
+              "video-processing",
+              "video-recognition",
+              "video-understanding"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.582Z"
         },
@@ -710,12 +1115,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome resources in Human Pose estimation.",
+            "homepage": null,
             "id": 151448977,
             "language": null,
+            "license": null,
             "last_commit": "2022-10-12T12:34:44Z",
+            "open_issues": 7,
             "owner": "cbsudux",
             "repo": "awesome-human-pose-estimation",
-            "stars": 2480
+            "stars": 2480,
+            "topics": [
+              "2d-human-pose",
+              "3d-human-pose",
+              "awesome-list",
+              "computer-vision",
+              "deep-learning",
+              "deep-learning-papers",
+              "human-pose-estimation",
+              "pose-estimation"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.582Z"
         },
@@ -726,12 +1145,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated paper list of awesome skeleton-based action recognition.",
+            "homepage": null,
             "id": 602405635,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-20T08:56:23Z",
+            "open_issues": 0,
             "owner": "firework8",
             "repo": "Awesome-Skeleton-based-Action-Recognition",
-            "stars": 727
+            "stars": 727,
+            "topics": [
+              "action-recognition",
+              "papers",
+              "skeleton",
+              "skeleton-based-action-recognition"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.582Z"
         },
@@ -742,12 +1171,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of datasets, papers, and resources  for Generalizable Human Activity Recognition and IMU sensing.",
+            "homepage": "https://arxiv.org/abs/2508.12213",
             "id": 790280061,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-21T13:49:30Z",
+            "open_issues": 0,
             "owner": "rh20624",
             "repo": "Awesome-IMU-Sensing",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "accelerometer",
+              "domain",
+              "domain-adaptation",
+              "domain-generalization",
+              "embodied-ai",
+              "generalizable",
+              "har",
+              "human-activity-recognition",
+              "human-behavior-modeling",
+              "imu-data",
+              "imu-sensor",
+              "mobile-sensing",
+              "wearable-ai"
+            ]
           },
           "first_seen": "2026-08-29T01:11:21.582Z"
         }
@@ -756,15 +1204,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:11:21.582Z",
+    "last_updated": "2026-08-29T04:50:30.870Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Always up-to-date, most comprehensive HAR resource — continuously scanned and auto-updated from Papers with Code. 53 datasets integrated across all modalities.",
+      "homepage": "https://leooo-huang.github.io/awesome-human-activity-recognition/",
       "id": 1080882241,
       "language": "Python",
+      "license": "CC-BY-4.0",
       "last_commit": "2026-08-26T06:50:15Z",
+      "open_issues": 0,
       "owner": "Leooo-Huang",
       "repo": "awesome-human-activity-recognition",
-      "stars": 242
+      "stars": 242,
+      "topics": [
+        "action-recognition",
+        "awesome",
+        "awesome-list",
+        "benchmark",
+        "computer-vision",
+        "datasets",
+        "deep-learning",
+        "human-activity-recognition",
+        "machine-learning",
+        "motion-detection",
+        "pose-estimation"
+      ]
     },
     "original_repository_sha": "50329524fd7abacf7fed9bc343a0d5c0945eefdc",
     "enhanced_repository": "enhansome/enhansome-human-activity-recognition",

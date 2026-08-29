@@ -121,7 +121,7 @@
 
 ### Skeleton Action Recognition
 
-* [ST-GCN](https://github.com/yysijie/st-gcn) ⭐ 1,752 | 🐛 0 | 🌐 Python | 📅 2023-03-08 - Seminal spatial-temporal graph convolution network that established the GCN approach for skeleton-based HAR.
+* [ST-GCN](https://github.com/yysijie/st-gcn) ⭐ 1,753 | 🐛 0 | 🌐 Python | 📅 2023-03-08 - Seminal spatial-temporal graph convolution network that established the GCN approach for skeleton-based HAR.
 * [MotionBERT](https://github.com/Walter0807/MotionBERT) ⭐ 1,440 | 🐛 44 | 🌐 Python | 📅 2026-03-14 - Unified pretraining for human motion analysis covering 3D pose estimation and action recognition.
 * [2s-AGCN](https://github.com/lshiwjx/2s-AGCN) ⭐ 705 | 🐛 68 | 🌐 Python | 📅 2021-10-22 - Two-stream adaptive graph convolutional network for skeleton-based action recognition from CVPR 2019.
 * [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN) ⭐ 367 | 🐛 29 | 🌐 Python | 📅 2021-11-20 - Channel-wise topology refinement graph convolution for skeleton-based action recognition from ICCV 2021.
@@ -207,7 +207,7 @@
 
 ## Tools and Utilities
 
-* [YOLO-Pose](https://github.com/ultralytics/ultralytics) ⭐ 61,054 | 🐛 90 | 🌐 Python | 📅 2026-08-29 - Ultralytics YOLOv8 Pose for real-time multi-person skeleton estimation.
+* [YOLO-Pose](https://github.com/ultralytics/ultralytics) ⭐ 61,056 | 🐛 92 | 🌐 Python | 📅 2026-08-29 - Ultralytics YOLOv8 Pose for real-time multi-person skeleton estimation.
 * [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,417 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - Real-time multi-person keypoint detection for skeleton extraction from video.
 * [Decord](https://github.com/dmlc/decord) ⭐ 2,515 | 🐛 221 | 🌐 C++ | 📅 2024-07-17 - Efficient GPU-accelerated video reader for deep learning training pipelines.
 * [Papers with Code - HAR Leaderboards](https://paperswithcode.com/task/activity-recognition) - Live SOTA tracking across all major HAR benchmarks.
@@ -218,7 +218,7 @@
 ## Related Awesome Lists
 
 * [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,413 | 🐛 1 | 📅 2026-02-24 - Self-supervised learning methods applicable to video and sensor modalities.
-* [Awesome Video Understanding](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) ⭐ 4,315 | 🐛 14 | 📅 2025-07-25 - Video understanding systems and architectures.
+* [Awesome Video Understanding](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) ⭐ 4,316 | 🐛 14 | 📅 2025-07-25 - Video understanding systems and architectures.
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,016 | 🐛 1 | 📅 2023-05-13 - Action recognition papers and datasets.
 * [Awesome Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation) ⭐ 2,480 | 🐛 7 | 📅 2022-10-12 - Human pose estimation methods and benchmarks.
 * [Awesome Skeleton-based Action Recognition](https://github.com/firework8/Awesome-Skeleton-based-Action-Recognition) ⭐ 727 | 🐛 0 | 📅 2026-08-20 - GCN and transformer methods for skeleton HAR.

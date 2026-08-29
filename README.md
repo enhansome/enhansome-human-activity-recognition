@@ -113,11 +113,11 @@
 ### Video Action Recognition
 
 * [PySlowFast](https://github.com/facebookresearch/SlowFast) ⭐ 7,411 | 🐛 444 | 🌐 Python | 📅 2026-03-16 - Facebook Research library for video understanding with SlowFast, X3D, MViT, and AVA models.
-* [MMAction2](https://github.com/open-mmlab/mmaction2) ⭐ 5,143 | 🐛 319 | 🌐 Python | 📅 2026-03-18 - OpenMMLab toolbox for video understanding supporting 20+ model architectures including SlowFast, TimeSformer, and VideoMAE.
+* [MMAction2](https://github.com/open-mmlab/mmaction2) ⭐ 5,145 | 🐛 319 | 🌐 Python | 📅 2026-03-18 - OpenMMLab toolbox for video understanding supporting 20+ model architectures including SlowFast, TimeSformer, and VideoMAE.
 * [TimeSformer](https://github.com/facebookresearch/TimeSformer) ⚠️ Archived - Facebook Research divided space-time attention for video classification from ICML 2021.
 * [VideoMAE](https://github.com/MCG-NJU/VideoMAE) ⭐ 1,786 | 🐛 50 | 🌐 Python | 📅 2023-12-08 - Self-supervised video pretraining with masked autoencoders achieving SOTA on multiple benchmarks.
 * [Video-Swin-Transformer](https://github.com/SwinTransformer/Video-Swin-Transformer) ⭐ 1,665 | 🐛 72 | 🌐 Python | 📅 2023-03-08 - Pure-transformer backbone for video recognition achieving SOTA on Kinetics-400, Kinetics-600, and SSv2.
-* [InternVideo2](https://github.com/OpenGVLab/InternVideo2) ⭐ 528 | 🐛 10 | 🌐 Python | 📅 2026-07-19 - Foundation model for video understanding at scale supporting action recognition, retrieval, and captioning.
+* [InternVideo2](https://github.com/OpenGVLab/InternVideo2) ⭐ 528 | 🐛 11 | 🌐 Python | 📅 2026-07-19 - Foundation model for video understanding at scale supporting action recognition, retrieval, and captioning.
 
 ### Skeleton Action Recognition
 
@@ -131,7 +131,7 @@
 ### Wearable Sensor HAR
 
 * [tsai](https://github.com/timeseriesAI/tsai) ⭐ 6,113 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2026-07-23 - Deep learning library for time series and sequences built on fastai and PyTorch, widely used for sensor HAR.
-* [aeon](https://github.com/aeon-toolkit/aeon) ⭐ 1,439 | 🐛 233 | 🌐 Python | 📅 2026-08-27 - Unified Python toolkit for time series including classification, clustering, and anomaly detection.
+* [aeon](https://github.com/aeon-toolkit/aeon) ⭐ 1,439 | 🐛 230 | 🌐 Python | 📅 2026-08-28 - Unified Python toolkit for time series including classification, clustering, and anomaly detection.
 * [DeepConvLSTM](https://github.com/sussexwearlab/DeepConvLSTM) ⭐ 289 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2018-06-03 - Reference implementation of the convolutional LSTM architecture for wearable activity recognition.
 * [Hang-Time HAR](https://github.com/ahoelzemann/hangtime_har) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-07-04 - Basketball activity recognition from a single wrist-worn inertial sensor using deep learning.
 * [NNCLR-HAR](https://github.com/mariusbock/nnclr-har) - Self-supervised contrastive learning framework for wearable sensor HAR from IMWUT 2022.
@@ -139,9 +139,9 @@
 ### Motion Generation and Estimation
 
 * [MDM](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,092 | 🐛 69 | 🌐 Python | 📅 2025-10-01 - Human motion diffusion model for text-to-motion generation achieving SOTA on HumanML3D.
-* [SMPL-X](https://github.com/vchoutas/smplx) ⭐ 2,685 | 🐛 134 | 🌐 Python | 📅 2024-08-12 - Expressive body model capturing body, face, and hand poses, the standard for modern motion datasets.
-* [MotionGPT](https://github.com/OpenMotionLab/MotionGPT) ⭐ 1,961 | 🐛 72 | 🌐 Python | 📅 2025-07-01 - Unified motion-language generation model treating motion as a foreign language.
-* [T2M-GPT](https://github.com/Mael-zys/T2M-GPT) ⭐ 774 | 🐛 18 | 🌐 Python | 📅 2024-09-17 - Generating human motion from textual descriptions with discrete representations.
+* [SMPL-X](https://github.com/vchoutas/smplx) ⭐ 2,687 | 🐛 134 | 🌐 Python | 📅 2024-08-12 - Expressive body model capturing body, face, and hand poses, the standard for modern motion datasets.
+* [MotionGPT](https://github.com/OpenMotionLab/MotionGPT) ⭐ 1,962 | 🐛 72 | 🌐 Python | 📅 2025-07-01 - Unified motion-language generation model treating motion as a foreign language.
+* [T2M-GPT](https://github.com/Mael-zys/T2M-GPT) ⭐ 775 | 🐛 18 | 🌐 Python | 📅 2024-09-17 - Generating human motion from textual descriptions with discrete representations.
 * [MLD](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 746 | 🐛 39 | 🌐 Python | 📅 2023-07-11 - Motion latent diffusion model for efficient text-driven human motion generation from CVPR 2023.
 
 ## Pretrained Models
@@ -207,9 +207,9 @@
 
 ## Tools and Utilities
 
-* [YOLO-Pose](https://github.com/ultralytics/ultralytics) ⭐ 61,020 | 🐛 90 | 🌐 Python | 📅 2026-08-27 - Ultralytics YOLOv8 Pose for real-time multi-person skeleton estimation.
-* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,418 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - Real-time multi-person keypoint detection for skeleton extraction from video.
-* [Decord](https://github.com/dmlc/decord) ⭐ 2,514 | 🐛 221 | 🌐 C++ | 📅 2024-07-17 - Efficient GPU-accelerated video reader for deep learning training pipelines.
+* [YOLO-Pose](https://github.com/ultralytics/ultralytics) ⭐ 61,054 | 🐛 90 | 🌐 Python | 📅 2026-08-29 - Ultralytics YOLOv8 Pose for real-time multi-person skeleton estimation.
+* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,417 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - Real-time multi-person keypoint detection for skeleton extraction from video.
+* [Decord](https://github.com/dmlc/decord) ⭐ 2,515 | 🐛 221 | 🌐 C++ | 📅 2024-07-17 - Efficient GPU-accelerated video reader for deep learning training pipelines.
 * [Papers with Code - HAR Leaderboards](https://paperswithcode.com/task/activity-recognition) - Live SOTA tracking across all major HAR benchmarks.
 * [MMAction2 Model Zoo](https://mmaction2.readthedocs.io/en/latest/model_zoo/modelzoo.html) - Pretrained checkpoints and configs for 100+ action recognition models.
 * [vid2player](https://github.com/jhgan00/vid2player) - Character animation from video input, useful for activity recognition visualization.
@@ -218,7 +218,7 @@
 ## Related Awesome Lists
 
 * [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,413 | 🐛 1 | 📅 2026-02-24 - Self-supervised learning methods applicable to video and sensor modalities.
-* [Awesome Video Understanding](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) ⭐ 4,312 | 🐛 14 | 📅 2025-07-25 - Video understanding systems and architectures.
+* [Awesome Video Understanding](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) ⭐ 4,315 | 🐛 14 | 📅 2025-07-25 - Video understanding systems and architectures.
 * [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,016 | 🐛 1 | 📅 2023-05-13 - Action recognition papers and datasets.
 * [Awesome Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation) ⭐ 2,480 | 🐛 7 | 📅 2022-10-12 - Human pose estimation methods and benchmarks.
 * [Awesome Skeleton-based Action Recognition](https://github.com/firework8/Awesome-Skeleton-based-Action-Recognition) ⭐ 727 | 🐛 0 | 📅 2026-08-20 - GCN and transformer methods for skeleton HAR.
@@ -246,4 +246,4 @@ Thanks to dataset authors, annotation teams, and benchmark maintainers who make 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

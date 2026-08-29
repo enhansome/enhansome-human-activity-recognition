@@ -18,7 +18,8 @@
                 "owner": "PKU-ICST-MIPL",
                 "repo": "FineSports_CVPR2024",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "OxWearables",
                 "repo": "capture24",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "mariusbock",
                 "repo": "wear",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             }
           ],
           "description": null,
@@ -77,7 +80,8 @@
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             }
           ],
           "description": null,
@@ -99,7 +103,8 @@
                 "owner": "EricGuo5513",
                 "repo": "HumanML3D",
                 "stars": 1522
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -114,7 +119,8 @@
                 "owner": "aistairc",
                 "repo": "FineBio",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             }
           ],
           "description": null,
@@ -142,7 +148,8 @@
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
                 "stars": 7411
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -156,8 +163,9 @@
                 "last_commit": "2026-03-18T04:04:49Z",
                 "owner": "open-mmlab",
                 "repo": "mmaction2",
-                "stars": 5143
-              }
+                "stars": 5145
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -172,7 +180,8 @@
                 "owner": "facebookresearch",
                 "repo": "TimeSformer",
                 "stars": 1863
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -187,7 +196,8 @@
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
                 "stars": 1786
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -202,7 +212,8 @@
                 "owner": "SwinTransformer",
                 "repo": "Video-Swin-Transformer",
                 "stars": 1665
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -217,7 +228,8 @@
                 "owner": "OpenGVLab",
                 "repo": "VideoChat-Flash",
                 "stars": 528
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             }
           ],
           "description": null,
@@ -239,7 +251,8 @@
                 "owner": "yysijie",
                 "repo": "st-gcn",
                 "stars": 1752
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -254,7 +267,8 @@
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
                 "stars": 1440
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -269,7 +283,8 @@
                 "owner": "lshiwjx",
                 "repo": "2s-AGCN",
                 "stars": 705
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -284,7 +299,8 @@
                 "owner": "Uason-Chen",
                 "repo": "CTR-GCN",
                 "stars": 367
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -299,7 +315,8 @@
                 "owner": "Jho-Yonsei",
                 "repo": "HD-GCN",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -314,7 +331,8 @@
                 "owner": "stnoah1",
                 "repo": "infogcn",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             }
           ],
           "description": null,
@@ -336,7 +354,8 @@
                 "owner": "timeseriesAI",
                 "repo": "tsai",
                 "stars": 6113
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -347,11 +366,12 @@
                 "archived": false,
                 "id": 580387696,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:26:59Z",
+                "last_commit": "2026-08-28T20:34:09Z",
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
                 "stars": 1439
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -366,7 +386,8 @@
                 "owner": "STRCWearlab",
                 "repo": "DeepConvLSTM",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -381,7 +402,8 @@
                 "owner": "ahoelzemann",
                 "repo": "hangtime_har",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             }
           ],
           "description": null,
@@ -403,7 +425,8 @@
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
                 "stars": 4092
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -417,8 +440,9 @@
                 "last_commit": "2024-08-12T05:09:47Z",
                 "owner": "vchoutas",
                 "repo": "smplx",
-                "stars": 2685
-              }
+                "stars": 2687
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -432,8 +456,9 @@
                 "last_commit": "2025-07-01T18:22:15Z",
                 "owner": "OpenMotionLab",
                 "repo": "MotionGPT",
-                "stars": 1961
-              }
+                "stars": 1962
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -447,8 +472,9 @@
                 "last_commit": "2024-09-17T14:19:55Z",
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 774
-              }
+                "stars": 775
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             },
             {
               "node_type": "item",
@@ -463,7 +489,8 @@
                 "owner": "ChenFengYe",
                 "repo": "motion-latent-diffusion",
                 "stars": 746
-              }
+              },
+              "first_seen": "2026-08-29T01:11:21.582Z"
             }
           ],
           "description": null,
@@ -489,7 +516,8 @@
             "owner": "OpenGVLab",
             "repo": "VideoMAEv2",
             "stars": 816
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.582Z"
         },
         {
           "node_type": "item",
@@ -504,7 +532,8 @@
             "owner": "OpenGVLab",
             "repo": "UniFormerV2",
             "stars": 352
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.582Z"
         },
         {
           "node_type": "item",
@@ -519,7 +548,8 @@
             "owner": "ruiwang2021",
             "repo": "mvd",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.582Z"
         }
       ],
       "title": "Pretrained Models"
@@ -540,7 +570,8 @@
             "owner": "mariusbock",
             "repo": "dl-for-har",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.582Z"
         }
       ],
       "title": "Tutorials and Courses"
@@ -561,7 +592,8 @@
             "owner": "sutdcv",
             "repo": "UAV-Human",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.582Z"
         }
       ],
       "title": "Competitions and Challenges"
@@ -578,11 +610,12 @@
             "archived": false,
             "id": 535360445,
             "language": "Python",
-            "last_commit": "2026-08-27T18:31:22Z",
+            "last_commit": "2026-08-29T01:06:42Z",
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 61020
-          }
+            "stars": 61054
+          },
+          "first_seen": "2026-08-29T01:11:21.582Z"
         },
         {
           "node_type": "item",
@@ -596,8 +629,9 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34418
-          }
+            "stars": 34417
+          },
+          "first_seen": "2026-08-29T01:11:21.582Z"
         },
         {
           "node_type": "item",
@@ -611,8 +645,9 @@
             "last_commit": "2024-07-17T04:18:40Z",
             "owner": "dmlc",
             "repo": "decord",
-            "stars": 2514
-          }
+            "stars": 2515
+          },
+          "first_seen": "2026-08-29T01:11:21.582Z"
         }
       ],
       "title": "Tools and Utilities"
@@ -633,7 +668,8 @@
             "owner": "jason718",
             "repo": "awesome-self-supervised-learning",
             "stars": 6413
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.582Z"
         },
         {
           "node_type": "item",
@@ -647,8 +683,9 @@
             "last_commit": "2025-07-25T02:24:35Z",
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4312
-          }
+            "stars": 4315
+          },
+          "first_seen": "2026-08-29T01:11:21.582Z"
         },
         {
           "node_type": "item",
@@ -663,7 +700,8 @@
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
             "stars": 4016
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.582Z"
         },
         {
           "node_type": "item",
@@ -678,7 +716,8 @@
             "owner": "cbsudux",
             "repo": "awesome-human-pose-estimation",
             "stars": 2480
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.582Z"
         },
         {
           "node_type": "item",
@@ -693,7 +732,8 @@
             "owner": "firework8",
             "repo": "Awesome-Skeleton-based-Action-Recognition",
             "stars": 727
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.582Z"
         },
         {
           "node_type": "item",
@@ -708,14 +748,15 @@
             "owner": "rh20624",
             "repo": "Awesome-IMU-Sensing",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-29T01:11:21.582Z"
         }
       ],
       "title": "Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:47:25.899Z",
+    "last_updated": "2026-08-29T01:11:21.582Z",
     "original_repository_info": {
       "archived": false,
       "id": 1080882241,

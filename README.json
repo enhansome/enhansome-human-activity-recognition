@@ -277,7 +277,7 @@
                 "open_issues": 50,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1786,
+                "stars": 1787,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -504,7 +504,7 @@
                 "open_issues": 31,
                 "owner": "timeseriesAI",
                 "repo": "tsai",
-                "stars": 6113,
+                "stars": 6114,
                 "topics": [
                   "classification",
                   "cnn",
@@ -542,8 +542,8 @@
                 "id": 580387696,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-31T20:02:28Z",
-                "open_issues": 234,
+                "last_commit": "2026-09-01T19:38:50Z",
+                "open_issues": 236,
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
                 "stars": 1439,
@@ -634,7 +634,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4093,
+                "stars": 4092,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -655,7 +655,7 @@
                 "open_issues": 134,
                 "owner": "vchoutas",
                 "repo": "smplx",
-                "stars": 2691,
+                "stars": 2693,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -676,7 +676,7 @@
                 "open_issues": 72,
                 "owner": "OpenMotionLab",
                 "repo": "MotionGPT",
-                "stars": 1962,
+                "stars": 1963,
                 "topics": [
                   "3d-generation",
                   "chatgpt",
@@ -708,7 +708,7 @@
                 "open_issues": 18,
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 775,
+                "stars": 776,
                 "topics": [
                   "gpt",
                   "motion-generation",
@@ -773,7 +773,7 @@
             "open_issues": 25,
             "owner": "OpenGVLab",
             "repo": "VideoMAEv2",
-            "stars": 817,
+            "stars": 818,
             "topics": [
               "action-detection",
               "action-recognition",
@@ -823,7 +823,7 @@
             "open_issues": 3,
             "owner": "ruiwang2021",
             "repo": "mvd",
-            "stars": 136,
+            "stars": 137,
             "topics": [
               "action-recognition",
               "cvpr2023",
@@ -915,11 +915,11 @@
             "id": 535360445,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-31T21:35:48Z",
-            "open_issues": 86,
+            "last_commit": "2026-09-01T19:57:49Z",
+            "open_issues": 88,
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 61132,
+            "stars": 61164,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -961,7 +961,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34421,
+            "stars": 34419,
             "topics": [
               "caffe",
               "computer-vision",
@@ -1061,7 +1061,7 @@
             "open_issues": 14,
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4324,
+            "stars": 4327,
             "topics": [
               "ai-infra",
               "genai",
@@ -1090,7 +1090,7 @@
             "open_issues": 1,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4016,
+            "stars": 4017,
             "topics": [
               "action-classification",
               "action-detection",
@@ -1180,7 +1180,7 @@
             "open_issues": 0,
             "owner": "rh20624",
             "repo": "Awesome-IMU-Sensing",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "accelerometer",
               "domain",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:04:26.414Z",
+    "last_updated": "2026-09-01T20:10:55.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "Always up-to-date, most comprehensive HAR resource — continuously scanned and auto-updated from Papers with Code. 53 datasets integrated across all modalities.",

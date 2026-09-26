@@ -195,7 +195,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7422,
+                "stars": 7423,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -256,7 +256,7 @@
                 "open_issues": 72,
                 "owner": "facebookresearch",
                 "repo": "TimeSformer",
-                "stars": 1861,
+                "stars": 1862,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -277,7 +277,7 @@
                 "open_issues": 51,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1796,
+                "stars": 1797,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -384,7 +384,7 @@
                 "open_issues": 45,
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1450,
+                "stars": 1451,
                 "topics": [
                   "3d-pose-estimation",
                   "iccv2023",
@@ -543,10 +543,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-25T09:26:21Z",
-                "open_issues": 255,
+                "open_issues": 257,
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
-                "stars": 1453,
+                "stars": 1454,
                 "topics": [
                   "aeon",
                   "ai",
@@ -634,7 +634,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4104,
+                "stars": 4106,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -655,7 +655,7 @@
                 "open_issues": 135,
                 "owner": "vchoutas",
                 "repo": "smplx",
-                "stars": 2716,
+                "stars": 2717,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -708,7 +708,7 @@
                 "open_issues": 19,
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 778,
+                "stars": 779,
                 "topics": [
                   "gpt",
                   "motion-generation",
@@ -915,11 +915,11 @@
             "id": 535360445,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T18:23:58Z",
-            "open_issues": 78,
+            "last_commit": "2026-09-26T13:39:20Z",
+            "open_issues": 80,
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 62005,
+            "stars": 62026,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1061,7 +1061,7 @@
             "open_issues": 14,
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4397,
+            "stars": 4398,
             "topics": [
               "ai-infra",
               "genai",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:46:26.062Z",
+    "last_updated": "2026-09-26T20:12:41.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "Always up-to-date, most comprehensive HAR resource — continuously scanned and auto-updated from Papers with Code. 53 datasets integrated across all modalities.",

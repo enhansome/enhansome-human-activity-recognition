@@ -195,7 +195,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7428,
+                "stars": 7429,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -407,7 +407,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2021-10-22T02:34:07Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "lshiwjx",
                 "repo": "2s-AGCN",
                 "stars": 706,
@@ -428,7 +428,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2021-11-20T07:36:20Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "Uason-Chen",
                 "repo": "CTR-GCN",
                 "stars": 368,
@@ -542,7 +542,7 @@
                 "id": 580387696,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-29T10:22:41Z",
+                "last_commit": "2026-10-02T16:16:31Z",
                 "open_issues": 262,
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
@@ -634,7 +634,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4108,
+                "stars": 4109,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -655,7 +655,7 @@
                 "open_issues": 135,
                 "owner": "vchoutas",
                 "repo": "smplx",
-                "stars": 2720,
+                "stars": 2721,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -915,11 +915,11 @@
             "id": 535360445,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T19:10:42Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-02T21:08:03Z",
+            "open_issues": 79,
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 62150,
+            "stars": 62163,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -961,7 +961,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34478,
+            "stars": 34483,
             "topics": [
               "caffe",
               "computer-vision",
@@ -1061,7 +1061,7 @@
             "open_issues": 14,
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4407,
+            "stars": 4408,
             "topics": [
               "ai-infra",
               "genai",
@@ -1090,7 +1090,7 @@
             "open_issues": 1,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4037,
+            "stars": 4038,
             "topics": [
               "action-classification",
               "action-detection",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T22:01:31.118Z",
+    "last_updated": "2026-10-02T21:27:18.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "Always up-to-date, most comprehensive HAR resource — continuously scanned and auto-updated from Papers with Code. 53 datasets integrated across all modalities.",

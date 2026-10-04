@@ -213,10 +213,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-18T04:04:49Z",
-                "open_issues": 319,
+                "open_issues": 318,
                 "owner": "open-mmlab",
                 "repo": "mmaction2",
-                "stars": 5169,
+                "stars": 5170,
                 "topics": [
                   "action-recognition",
                   "ava",
@@ -277,7 +277,7 @@
                 "open_issues": 51,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1797,
+                "stars": 1798,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -384,7 +384,7 @@
                 "open_issues": 45,
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1454,
+                "stars": 1455,
                 "topics": [
                   "3d-pose-estimation",
                   "iccv2023",
@@ -543,7 +543,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-02T16:16:31Z",
-                "open_issues": 263,
+                "open_issues": 264,
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
                 "stars": 1457,
@@ -634,7 +634,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4109,
+                "stars": 4111,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -915,11 +915,11 @@
             "id": 535360445,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T17:15:31Z",
-            "open_issues": 69,
+            "last_commit": "2026-10-04T20:24:56Z",
+            "open_issues": 76,
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 62179,
+            "stars": 62202,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1003,7 +1003,7 @@
             "open_issues": 221,
             "owner": "dmlc",
             "repo": "decord",
-            "stars": 2523,
+            "stars": 2524,
             "topics": [
               "video-loader"
             ]
@@ -1032,7 +1032,7 @@
             "open_issues": 2,
             "owner": "jason718",
             "repo": "awesome-self-supervised-learning",
-            "stars": 6430,
+            "stars": 6431,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1176,7 +1176,7 @@
             "id": 790280061,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-18T08:40:32Z",
+            "last_commit": "2026-10-04T04:56:52Z",
             "open_issues": 0,
             "owner": "rh20624",
             "repo": "Awesome-IMU-Sensing",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T20:15:03.314Z",
+    "last_updated": "2026-10-04T20:29:50.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "Always up-to-date, most comprehensive HAR resource — continuously scanned and auto-updated from Papers with Code. 53 datasets integrated across all modalities.",

@@ -195,7 +195,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7429,
+                "stars": 7428,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -543,7 +543,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-09T14:52:18Z",
-                "open_issues": 264,
+                "open_issues": 265,
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
                 "stars": 1458,
@@ -655,7 +655,7 @@
                 "open_issues": 135,
                 "owner": "vchoutas",
                 "repo": "smplx",
-                "stars": 2725,
+                "stars": 2730,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -708,7 +708,7 @@
                 "open_issues": 19,
                 "owner": "Mael-zys",
                 "repo": "T2M-GPT",
-                "stars": 779,
+                "stars": 780,
                 "topics": [
                   "gpt",
                   "motion-generation",
@@ -916,10 +916,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-09T20:37:33Z",
-            "open_issues": 75,
+            "open_issues": 78,
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 62337,
+            "stars": 62363,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -961,7 +961,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34492,
+            "stars": 34493,
             "topics": [
               "caffe",
               "computer-vision",
@@ -1032,7 +1032,7 @@
             "open_issues": 2,
             "owner": "jason718",
             "repo": "awesome-self-supervised-learning",
-            "stars": 6435,
+            "stars": 6436,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1061,7 +1061,7 @@
             "open_issues": 14,
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4420,
+            "stars": 4421,
             "topics": [
               "ai-infra",
               "genai",
@@ -1090,7 +1090,7 @@
             "open_issues": 1,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4037,
+            "stars": 4038,
             "topics": [
               "action-classification",
               "action-detection",
@@ -1150,8 +1150,8 @@
             "id": 602405635,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-27T12:17:01Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-10T02:59:12Z",
+            "open_issues": 0,
             "owner": "firework8",
             "repo": "Awesome-Skeleton-based-Action-Recognition",
             "stars": 731,
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:53:18.323Z",
+    "last_updated": "2026-10-10T20:43:36.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "Always up-to-date, most comprehensive HAR resource — continuously scanned and auto-updated from Papers with Code. 53 datasets integrated across all modalities.",

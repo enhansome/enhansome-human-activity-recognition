@@ -216,7 +216,7 @@
                 "open_issues": 318,
                 "owner": "open-mmlab",
                 "repo": "mmaction2",
-                "stars": 5183,
+                "stars": 5185,
                 "topics": [
                   "action-recognition",
                   "ava",
@@ -311,7 +311,7 @@
                 "open_issues": 73,
                 "owner": "SwinTransformer",
                 "repo": "Video-Swin-Transformer",
-                "stars": 1667,
+                "stars": 1668,
                 "topics": [
                   "swin-transformer",
                   "video-recognition"
@@ -542,11 +542,11 @@
                 "id": 580387696,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-25T18:29:22Z",
-                "open_issues": 272,
+                "last_commit": "2026-10-26T01:07:27Z",
+                "open_issues": 275,
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
-                "stars": 1467,
+                "stars": 1469,
                 "topics": [
                   "aeon",
                   "ai",
@@ -634,7 +634,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4124,
+                "stars": 4127,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -655,7 +655,7 @@
                 "open_issues": 136,
                 "owner": "vchoutas",
                 "repo": "smplx",
-                "stars": 2744,
+                "stars": 2745,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -773,7 +773,7 @@
             "open_issues": 26,
             "owner": "OpenGVLab",
             "repo": "VideoMAEv2",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "action-detection",
               "action-recognition",
@@ -915,11 +915,11 @@
             "id": 535360445,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-25T14:32:47Z",
-            "open_issues": 88,
+            "last_commit": "2026-10-26T18:59:38Z",
+            "open_issues": 83,
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 62829,
+            "stars": 62866,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -961,7 +961,7 @@
             "open_issues": 360,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34520,
+            "stars": 34521,
             "topics": [
               "caffe",
               "computer-vision",
@@ -1061,7 +1061,7 @@
             "open_issues": 14,
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4446,
+            "stars": 4445,
             "topics": [
               "ai-infra",
               "genai",
@@ -1090,7 +1090,7 @@
             "open_issues": 2,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4038,
+            "stars": 4039,
             "topics": [
               "action-classification",
               "action-detection",
@@ -1180,7 +1180,7 @@
             "open_issues": 0,
             "owner": "rh20624",
             "repo": "Awesome-IMU-Sensing",
-            "stars": 213,
+            "stars": 214,
             "topics": [
               "accelerometer",
               "domain",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T20:01:05.846Z",
+    "last_updated": "2026-10-26T21:55:48.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "Always up-to-date, most comprehensive HAR resource — continuously scanned and auto-updated from Papers with Code. 53 datasets integrated across all modalities.",
@@ -1216,7 +1216,7 @@
       "open_issues": 1,
       "owner": "Leooo-Huang",
       "repo": "awesome-human-activity-recognition",
-      "stars": 237,
+      "stars": 236,
       "topics": [
         "action-recognition",
         "awesome",

@@ -135,7 +135,7 @@
                 "open_issues": 112,
                 "owner": "EricGuo5513",
                 "repo": "HumanML3D",
-                "stars": 1552,
+                "stars": 1554,
                 "topics": [
                   "dataset",
                   "deep-learning",
@@ -195,7 +195,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7438,
+                "stars": 7440,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -216,7 +216,7 @@
                 "open_issues": 318,
                 "owner": "open-mmlab",
                 "repo": "mmaction2",
-                "stars": 5185,
+                "stars": 5186,
                 "topics": [
                   "action-recognition",
                   "ava",
@@ -277,7 +277,7 @@
                 "open_issues": 52,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1809,
+                "stars": 1811,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -363,7 +363,7 @@
                 "open_issues": 0,
                 "owner": "yysijie",
                 "repo": "st-gcn",
-                "stars": 1764,
+                "stars": 1763,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -384,7 +384,7 @@
                 "open_issues": 45,
                 "owner": "Walter0807",
                 "repo": "MotionBERT",
-                "stars": 1459,
+                "stars": 1460,
                 "topics": [
                   "3d-pose-estimation",
                   "iccv2023",
@@ -410,7 +410,7 @@
                 "open_issues": 69,
                 "owner": "lshiwjx",
                 "repo": "2s-AGCN",
-                "stars": 706,
+                "stars": 705,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -542,8 +542,8 @@
                 "id": 580387696,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-27T19:51:13Z",
-                "open_issues": 273,
+                "last_commit": "2026-10-28T20:15:28Z",
+                "open_issues": 272,
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
                 "stars": 1470,
@@ -634,7 +634,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4127,
+                "stars": 4128,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -655,7 +655,7 @@
                 "open_issues": 136,
                 "owner": "vchoutas",
                 "repo": "smplx",
-                "stars": 2745,
+                "stars": 2746,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -676,7 +676,7 @@
                 "open_issues": 72,
                 "owner": "OpenMotionLab",
                 "repo": "MotionGPT",
-                "stars": 1984,
+                "stars": 1985,
                 "topics": [
                   "3d-generation",
                   "chatgpt",
@@ -915,11 +915,11 @@
             "id": 535360445,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T19:16:39Z",
-            "open_issues": 86,
+            "last_commit": "2026-10-28T15:24:56Z",
+            "open_issues": 89,
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 62909,
+            "stars": 62939,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -961,7 +961,7 @@
             "open_issues": 360,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34531,
+            "stars": 34534,
             "topics": [
               "caffe",
               "computer-vision",
@@ -1061,7 +1061,7 @@
             "open_issues": 14,
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4448,
+            "stars": 4449,
             "topics": [
               "ai-infra",
               "genai",
@@ -1090,7 +1090,7 @@
             "open_issues": 2,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4039,
+            "stars": 4038,
             "topics": [
               "action-classification",
               "action-detection",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:29:41.018Z",
+    "last_updated": "2026-10-28T21:54:53.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "Always up-to-date, most comprehensive HAR resource — continuously scanned and auto-updated from Papers with Code. 53 datasets integrated across all modalities.",
@@ -1212,11 +1212,11 @@
       "id": 1080882241,
       "language": "Python",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-21T11:18:35Z",
+      "last_commit": "2026-10-28T12:15:50Z",
       "open_issues": 1,
       "owner": "Leooo-Huang",
       "repo": "awesome-human-activity-recognition",
-      "stars": 236,
+      "stars": 237,
       "topics": [
         "action-recognition",
         "awesome",
@@ -1231,7 +1231,7 @@
         "pose-estimation"
       ]
     },
-    "original_repository_sha": "a50bcb9595ed164bdd53a03cb34da1ffb753039f",
+    "original_repository_sha": "5fe5b7902fe23d11e2493ed396e39b1c2058f2c3",
     "enhanced_repository": "enhansome/enhansome-human-activity-recognition",
     "enhanced_repository_description": null,
     "title": "Awesome Human Activity Recognition with stars"

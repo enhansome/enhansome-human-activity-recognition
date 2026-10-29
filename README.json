@@ -195,7 +195,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7440,
+                "stars": 7441,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -216,7 +216,7 @@
                 "open_issues": 318,
                 "owner": "open-mmlab",
                 "repo": "mmaction2",
-                "stars": 5186,
+                "stars": 5188,
                 "topics": [
                   "action-recognition",
                   "ava",
@@ -504,7 +504,7 @@
                 "open_issues": 30,
                 "owner": "timeseriesAI",
                 "repo": "tsai",
-                "stars": 6138,
+                "stars": 6139,
                 "topics": [
                   "classification",
                   "cnn",
@@ -542,11 +542,11 @@
                 "id": 580387696,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-28T20:15:28Z",
-                "open_issues": 272,
+                "last_commit": "2026-10-29T21:15:20Z",
+                "open_issues": 273,
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
-                "stars": 1470,
+                "stars": 1471,
                 "topics": [
                   "aeon",
                   "ai",
@@ -634,7 +634,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4128,
+                "stars": 4129,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -655,7 +655,7 @@
                 "open_issues": 136,
                 "owner": "vchoutas",
                 "repo": "smplx",
-                "stars": 2746,
+                "stars": 2748,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -773,7 +773,7 @@
             "open_issues": 26,
             "owner": "OpenGVLab",
             "repo": "VideoMAEv2",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "action-detection",
               "action-recognition",
@@ -915,11 +915,11 @@
             "id": 535360445,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-28T15:24:56Z",
-            "open_issues": 89,
+            "last_commit": "2026-10-29T19:33:22Z",
+            "open_issues": 103,
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 62939,
+            "stars": 62973,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1003,7 +1003,7 @@
             "open_issues": 221,
             "owner": "dmlc",
             "repo": "decord",
-            "stars": 2526,
+            "stars": 2527,
             "topics": [
               "video-loader"
             ]
@@ -1032,7 +1032,7 @@
             "open_issues": 3,
             "owner": "jason718",
             "repo": "awesome-self-supervised-learning",
-            "stars": 6438,
+            "stars": 6440,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1061,7 +1061,7 @@
             "open_issues": 14,
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4449,
+            "stars": 4451,
             "topics": [
               "ai-infra",
               "genai",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:54:53.073Z",
+    "last_updated": "2026-10-29T22:02:54.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "Always up-to-date, most comprehensive HAR resource — continuously scanned and auto-updated from Papers with Code. 53 datasets integrated across all modalities.",

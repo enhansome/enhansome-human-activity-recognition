@@ -95,7 +95,7 @@
 
 ### Emerging and Frontier
 
-* [HumanML3D](https://github.com/EricGuo5513/HumanML3D) ⭐ 1,554 | 🐛 112 | 🌐 Python | 📅 2024-08-18 - Text-to-motion generation dataset with SMPL annotations spanning 14k+ motion sequences.
+* [HumanML3D](https://github.com/EricGuo5513/HumanML3D) ⭐ 1,555 | 🐛 112 | 🌐 Python | 📅 2024-08-18 - Text-to-motion generation dataset with SMPL annotations spanning 14k+ motion sequences.
 * [FineBio](https://github.com/aistairc/FineBio) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-09-10 - Fine-grained biology lab action understanding with multi-step procedure annotations.
 * [BEHAVE](https://virtualhumans.mpi-inf.mpg.de/behave/) - RGB-D human-object interaction with 3D pose spanning 321 sequences from 20 subjects.
 * [Motion-X](https://caizhongang.github.io/projects/Motion-X/) - Full-body and hand joint motion from multisensor mocap with 2M frames from 10 subjects.
@@ -122,7 +122,7 @@
 ### Skeleton Action Recognition
 
 * [ST-GCN](https://github.com/yysijie/st-gcn) ⭐ 1,763 | 🐛 0 | 🌐 Python | 📅 2023-03-08 - Seminal spatial-temporal graph convolution network that established the GCN approach for skeleton-based HAR.
-* [MotionBERT](https://github.com/Walter0807/MotionBERT) ⭐ 1,460 | 🐛 45 | 🌐 Python | 📅 2026-03-14 - Unified pretraining for human motion analysis covering 3D pose estimation and action recognition.
+* [MotionBERT](https://github.com/Walter0807/MotionBERT) ⭐ 1,461 | 🐛 45 | 🌐 Python | 📅 2026-03-14 - Unified pretraining for human motion analysis covering 3D pose estimation and action recognition.
 * [2s-AGCN](https://github.com/lshiwjx/2s-AGCN) ⭐ 705 | 🐛 69 | 🌐 Python | 📅 2021-10-22 - Two-stream adaptive graph convolutional network for skeleton-based action recognition from CVPR 2019.
 * [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN) ⭐ 374 | 🐛 30 | 🌐 Python | 📅 2021-11-20 - Channel-wise topology refinement graph convolution for skeleton-based action recognition from ICCV 2021.
 * [HD-GCN](https://github.com/Jho-Yonsei/HD-GCN) ⭐ 171 | 🐛 19 | 🌐 Python | 📅 2023-10-05 - Hierarchically decomposed graph convolutional network for skeleton action recognition from AAAI 2024.
@@ -130,17 +130,17 @@
 
 ### Wearable Sensor HAR
 
-* [tsai](https://github.com/timeseriesAI/tsai) ⭐ 6,139 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2026-07-23 - Deep learning library for time series and sequences built on fastai and PyTorch, widely used for sensor HAR.
-* [aeon](https://github.com/aeon-toolkit/aeon) ⭐ 1,471 | 🐛 273 | 🌐 Python | 📅 2026-10-29 - Unified Python toolkit for time series including classification, clustering, and anomaly detection.
+* [tsai](https://github.com/timeseriesAI/tsai) ⭐ 6,140 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2026-07-23 - Deep learning library for time series and sequences built on fastai and PyTorch, widely used for sensor HAR.
+* [aeon](https://github.com/aeon-toolkit/aeon) ⭐ 1,471 | 🐛 273 | 🌐 Python | 📅 2026-10-30 - Unified Python toolkit for time series including classification, clustering, and anomaly detection.
 * [DeepConvLSTM](https://github.com/sussexwearlab/DeepConvLSTM) ⭐ 289 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2018-06-03 - Reference implementation of the convolutional LSTM architecture for wearable activity recognition.
 * [Hang-Time HAR](https://github.com/ahoelzemann/hangtime_har) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-07-04 - Basketball activity recognition from a single wrist-worn inertial sensor using deep learning.
 * [NNCLR-HAR](https://github.com/mariusbock/nnclr-har) - Self-supervised contrastive learning framework for wearable sensor HAR from IMWUT 2022.
 
 ### Motion Generation and Estimation
 
-* [MDM](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,129 | 🐛 69 | 🌐 Python | 📅 2025-10-01 - Human motion diffusion model for text-to-motion generation achieving SOTA on HumanML3D.
+* [MDM](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,130 | 🐛 69 | 🌐 Python | 📅 2025-10-01 - Human motion diffusion model for text-to-motion generation achieving SOTA on HumanML3D.
 * [SMPL-X](https://github.com/vchoutas/smplx) ⭐ 2,748 | 🐛 136 | 🌐 Python | 📅 2024-08-12 - Expressive body model capturing body, face, and hand poses, the standard for modern motion datasets.
-* [MotionGPT](https://github.com/OpenMotionLab/MotionGPT) ⭐ 1,985 | 🐛 72 | 🌐 Python | 📅 2025-07-01 - Unified motion-language generation model treating motion as a foreign language.
+* [MotionGPT](https://github.com/OpenMotionLab/MotionGPT) ⭐ 1,986 | 🐛 72 | 🌐 Python | 📅 2025-07-01 - Unified motion-language generation model treating motion as a foreign language.
 * [T2M-GPT](https://github.com/Mael-zys/T2M-GPT) ⭐ 781 | 🐛 19 | 🌐 Python | 📅 2024-09-17 - Generating human motion from textual descriptions with discrete representations.
 * [MLD](https://github.com/ChenFengYe/motion-latent-diffusion) ⭐ 753 | 🐛 39 | 🌐 Python | 📅 2023-07-11 - Motion latent diffusion model for efficient text-driven human motion generation from CVPR 2023.
 
@@ -207,8 +207,8 @@
 
 ## Tools and Utilities
 
-* [YOLO-Pose](https://github.com/ultralytics/ultralytics) ⭐ 62,973 | 🐛 103 | 🌐 Python | 📅 2026-10-29 - Ultralytics YOLOv8 Pose for real-time multi-person skeleton estimation.
-* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,534 | 🐛 360 | 🌐 C++ | 📅 2024-08-03 - Real-time multi-person keypoint detection for skeleton extraction from video.
+* [YOLO-Pose](https://github.com/ultralytics/ultralytics) ⭐ 62,987 | 🐛 77 | 🌐 Python | 📅 2026-10-30 - Ultralytics YOLOv8 Pose for real-time multi-person skeleton estimation.
+* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,540 | 🐛 360 | 🌐 C++ | 📅 2024-08-03 - Real-time multi-person keypoint detection for skeleton extraction from video.
 * [Decord](https://github.com/dmlc/decord) ⭐ 2,527 | 🐛 221 | 🌐 C++ | 📅 2024-07-17 - Efficient GPU-accelerated video reader for deep learning training pipelines.
 * [Papers with Code - HAR Leaderboards](https://paperswithcode.com/task/activity-recognition) - Live SOTA tracking across all major HAR benchmarks.
 * [MMAction2 Model Zoo](https://mmaction2.readthedocs.io/en/latest/model_zoo/modelzoo.html) - Pretrained checkpoints and configs for 100+ action recognition models.
@@ -217,10 +217,10 @@
 
 ## Related Awesome Lists
 
-* [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,440 | 🐛 3 | 📅 2026-02-24 - Self-supervised learning methods applicable to video and sensor modalities.
-* [Awesome Video Understanding](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) ⭐ 4,451 | 🐛 14 | 📅 2025-07-25 - Video understanding systems and architectures.
-* [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,038 | 🐛 2 | 📅 2023-05-13 - Action recognition papers and datasets.
-* [Awesome Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation) ⭐ 2,478 | 🐛 7 | 📅 2022-10-12 - Human pose estimation methods and benchmarks.
+* [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,439 | 🐛 3 | 📅 2026-02-24 - Self-supervised learning methods applicable to video and sensor modalities.
+* [Awesome Video Understanding](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) ⭐ 4,455 | 🐛 14 | 📅 2025-07-25 - Video understanding systems and architectures.
+* [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,039 | 🐛 2 | 📅 2023-05-13 - Action recognition papers and datasets.
+* [Awesome Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation) ⭐ 2,480 | 🐛 7 | 📅 2022-10-12 - Human pose estimation methods and benchmarks.
 * [Awesome Skeleton-based Action Recognition](https://github.com/firework8/Awesome-Skeleton-based-Action-Recognition) ⭐ 731 | 🐛 0 | 📅 2026-10-25 - GCN and transformer methods for skeleton HAR.
 * [Awesome IMU Sensing](https://github.com/rh20624/Awesome-IMU-Sensing) ⭐ 215 | 🐛 0 | 📅 2026-10-19 - IMU-based sensing for activity recognition and navigation.
 
@@ -246,4 +246,4 @@ Thanks to dataset authors, annotation teams, and benchmark maintainers who make 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

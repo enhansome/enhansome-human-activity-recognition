@@ -195,7 +195,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7443,
+                "stars": 7442,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -216,7 +216,7 @@
                 "open_issues": 318,
                 "owner": "open-mmlab",
                 "repo": "mmaction2",
-                "stars": 5190,
+                "stars": 5193,
                 "topics": [
                   "action-recognition",
                   "ava",
@@ -311,7 +311,7 @@
                 "open_issues": 73,
                 "owner": "SwinTransformer",
                 "repo": "Video-Swin-Transformer",
-                "stars": 1668,
+                "stars": 1667,
                 "topics": [
                   "swin-transformer",
                   "video-recognition"
@@ -504,7 +504,7 @@
                 "open_issues": 30,
                 "owner": "timeseriesAI",
                 "repo": "tsai",
-                "stars": 6141,
+                "stars": 6140,
                 "topics": [
                   "classification",
                   "cnn",
@@ -542,11 +542,11 @@
                 "id": 580387696,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-03T16:04:47Z",
-                "open_issues": 277,
+                "last_commit": "2026-11-04T17:12:53Z",
+                "open_issues": 276,
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
-                "stars": 1473,
+                "stars": 1474,
                 "topics": [
                   "aeon",
                   "ai",
@@ -652,10 +652,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-08-12T05:09:47Z",
-                "open_issues": 136,
+                "open_issues": 137,
                 "owner": "vchoutas",
                 "repo": "smplx",
-                "stars": 2750,
+                "stars": 2749,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -915,11 +915,11 @@
             "id": 535360445,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-03T22:19:36Z",
-            "open_issues": 82,
+            "last_commit": "2026-11-04T22:41:42Z",
+            "open_issues": 71,
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 63090,
+            "stars": 63128,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -961,7 +961,7 @@
             "open_issues": 360,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34552,
+            "stars": 34551,
             "topics": [
               "caffe",
               "computer-vision",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:35:08.873Z",
+    "last_updated": "2026-11-04T22:55:03.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "Always up-to-date, most comprehensive HAR resource — continuously scanned and auto-updated from Papers with Code. 53 datasets integrated across all modalities.",
@@ -1212,11 +1212,11 @@
       "id": 1080882241,
       "language": "Python",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-28T12:15:50Z",
+      "last_commit": "2026-11-04T13:53:35Z",
       "open_issues": 1,
       "owner": "Leooo-Huang",
       "repo": "awesome-human-activity-recognition",
-      "stars": 234,
+      "stars": 231,
       "topics": [
         "action-recognition",
         "awesome",
@@ -1231,7 +1231,7 @@
         "pose-estimation"
       ]
     },
-    "original_repository_sha": "5fe5b7902fe23d11e2493ed396e39b1c2058f2c3",
+    "original_repository_sha": "524ea12c607f022f4dac8a3bb6df6c1e597f4e4a",
     "enhanced_repository": "enhansome/enhansome-human-activity-recognition",
     "enhanced_repository_description": null,
     "title": "Awesome Human Activity Recognition with stars"

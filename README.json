@@ -135,7 +135,7 @@
                 "open_issues": 112,
                 "owner": "EricGuo5513",
                 "repo": "HumanML3D",
-                "stars": 1557,
+                "stars": 1558,
                 "topics": [
                   "dataset",
                   "deep-learning",
@@ -195,7 +195,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7442,
+                "stars": 7441,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -216,7 +216,7 @@
                 "open_issues": 318,
                 "owner": "open-mmlab",
                 "repo": "mmaction2",
-                "stars": 5193,
+                "stars": 5192,
                 "topics": [
                   "action-recognition",
                   "ava",
@@ -277,7 +277,7 @@
                 "open_issues": 52,
                 "owner": "MCG-NJU",
                 "repo": "VideoMAE",
-                "stars": 1813,
+                "stars": 1812,
                 "topics": [
                   "action-recognition",
                   "mae",
@@ -311,7 +311,7 @@
                 "open_issues": 73,
                 "owner": "SwinTransformer",
                 "repo": "Video-Swin-Transformer",
-                "stars": 1667,
+                "stars": 1668,
                 "topics": [
                   "swin-transformer",
                   "video-recognition"
@@ -363,7 +363,7 @@
                 "open_issues": 0,
                 "owner": "yysijie",
                 "repo": "st-gcn",
-                "stars": 1763,
+                "stars": 1764,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -542,8 +542,8 @@
                 "id": 580387696,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-04T17:12:53Z",
-                "open_issues": 276,
+                "last_commit": "2026-11-06T16:07:40Z",
+                "open_issues": 277,
                 "owner": "aeon-toolkit",
                 "repo": "aeon",
                 "stars": 1474,
@@ -634,7 +634,7 @@
                 "open_issues": 69,
                 "owner": "GuyTevet",
                 "repo": "motion-diffusion-model",
-                "stars": 4130,
+                "stars": 4131,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -655,7 +655,7 @@
                 "open_issues": 137,
                 "owner": "vchoutas",
                 "repo": "smplx",
-                "stars": 2749,
+                "stars": 2751,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:11:21.582Z"
@@ -888,7 +888,7 @@
             "open_issues": 12,
             "owner": "sutdcv",
             "repo": "UAV-Human",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "action-recognition",
               "dataset",
@@ -915,11 +915,11 @@
             "id": 535360445,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-05T19:11:19Z",
-            "open_issues": 72,
+            "last_commit": "2026-11-06T22:25:33Z",
+            "open_issues": 77,
             "owner": "ultralytics",
             "repo": "ultralytics",
-            "stars": 63161,
+            "stars": 63175,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -961,7 +961,7 @@
             "open_issues": 360,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34558,
+            "stars": 34562,
             "topics": [
               "caffe",
               "computer-vision",
@@ -1000,10 +1000,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2024-07-17T04:18:40Z",
-            "open_issues": 221,
+            "open_issues": 220,
             "owner": "dmlc",
             "repo": "decord",
-            "stars": 2528,
+            "stars": 2529,
             "topics": [
               "video-loader"
             ]
@@ -1061,7 +1061,7 @@
             "open_issues": 14,
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4461,
+            "stars": 4460,
             "topics": [
               "ai-infra",
               "genai",
@@ -1176,7 +1176,7 @@
             "id": 790280061,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-19T03:05:50Z",
+            "last_commit": "2026-11-06T02:47:49Z",
             "open_issues": 0,
             "owner": "rh20624",
             "repo": "Awesome-IMU-Sensing",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:55:44.022Z",
+    "last_updated": "2026-11-06T22:26:13.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "Always up-to-date, most comprehensive HAR resource — continuously scanned and auto-updated from Papers with Code. 53 datasets integrated across all modalities.",
